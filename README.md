@@ -11,7 +11,7 @@ The workflow was designed to support phenotype-aware genomic surveillance by ide
 <sub>The workflow was developed by Sofia Ali and Jacob P. Walsh in the Department of Chemistry and Biochemistry, University of Northern British Columbia (UNBC).</sub>
 ---
 
-## Workflow
+## Workflow 
 
 The study followed an integrated genomic–phenotypic workflow comprising the following major stages:
 
