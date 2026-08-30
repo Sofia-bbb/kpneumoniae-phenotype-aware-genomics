@@ -8,7 +8,7 @@ The study integrates whole-genome sequencing with antimicrobial susceptibility p
 
 The workflow was designed to support phenotype-aware genomic surveillance by identifying genomic and lineage-specific patterns that may be missed when genomic resistance determinants or phenotypic susceptibility data are considered independently.
 
-The workflow was developed by **Sofia Ali and Jacob P. Walsh** in the **Department of Chemistry and Biochemistry, University of Northern British Columbia (UNBC)**.
+The workflow was developed by Sofia Ali and Jacob P. Walsh in the Department of Chemistry and Biochemistry, University of Northern British Columbia (UNBC).
 ---
 
 ## Workflow
@@ -91,7 +91,7 @@ kpneumoniae-phenotype-aware-genomics/
 
 ## Reproducibility and Data Availability
 
-The genomic and antimicrobial susceptibility data analysed in this study were obtained from publicly available records in **NCBI Pathogen Detection** and the **Sequence Read Archive (SRA)**. Accession identifiers for the isolates included in the study are provided in the Supplementary Material accompanying the manuscript.
+The genomic and antimicrobial susceptibility data analysed in this study were obtained from publicly available records in **NCBI Pathogen Detection and the Sequence Read Archive (SRA). Accession identifiers for the isolates included in the study are provided in the Supplementary Material accompanying the manuscript.
 
 This repository contains the analysis scripts and derived, analysis-ready datasets supporting the reported genotype–phenotype, siderophore, statistical, and phylogenomic analyses. Raw sequencing reads and genome assemblies are not redistributed through this repository.
 
@@ -102,8 +102,8 @@ External resources, including raw sequencing data, the VFDB reference database, 
 
 ## Authors
 
-**Sofia B. Mohamed**  
-Department of Chemistry and Biochemistry  
+Sofia B. Mohamed  
+Department of Chemistry and Biochemistry 
 University of Northern British Columbia (UNBC)  
 Prince George, British Columbia, Canada  
 
@@ -111,7 +111,7 @@ National University Biomedical Research Institute (NUBRI)
 National University-Sudan  
 Khartoum, Sudan
 
-**Jacob P. Walsh**  
+Jacob P. Walsh  
 Department of Chemistry and Biochemistry  
 University of Northern British Columbia (UNBC)  
 Prince George, British Columbia, Canada
