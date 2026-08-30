@@ -1,31 +1,15 @@
+
 library(ape)
 library(readr)
 library(dplyr)
 
-# Repository root
-args <- commandArgs(trailingOnly = FALSE)
-script_arg <- grep("^--file=", args, value = TRUE)
-script_path <- normalizePath(sub("^--file=", "", script_arg))
-base_dir <- normalizePath(file.path(dirname(script_path), "..", ".."))
+TREE_FILE <- "data/KP_Final_1143_core_genome_tree.nwk"
 
-TREE_FILE <- file.path(
-  base_dir, "data", "KP_Final_1143_core_genome_tree.nwk"
-)
+MASTER_FILE <- "data/01_Stage4_Integrated_Isolate_Master_FINAL_1143.tsv"
 
-MASTER_FILE <- file.path(
-  base_dir, "data",
-  "01_Stage4_Integrated_Isolate_Master_FINAL_1143.tsv"
-)
+CORRECTED_VF_FILE <- "data/vfdb_non_siderophore_FINAL1168_90id_80cov.tsv"
 
-CORRECTED_VF_FILE <- file.path(
-  base_dir, "data",
-  "05_Isolate_Level_VF_Counts_No_Siderophores.tsv"
-)
-
-OUT <- file.path(
-  base_dir, "results", "phylogeny",
-  "No_Siderophore_VF_Burden"
-)
+OUT <- "results/phylogeny/virulence_clustering"
 
 dir.create(
   OUT,
@@ -46,7 +30,10 @@ corrected_vf <- read_tsv(
 ) %>%
   select(
     SRR,
-    vf_factor_count_no_siderophores
+    non_siderophore_vf_count
+  ) %>%
+  rename(
+    vf_factor_count_no_siderophores = non_siderophore_vf_count
   )
 
 master <- master %>%

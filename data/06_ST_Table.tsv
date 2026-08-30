@@ -1,0 +1,1183 @@
+SRR	species	ST	Country	Collection_Year	Isolation_Source_Metadata	K_locus	O_locus	virulence_score	resistance_score	amr_gene_count	vf_factor_count_filtered	siderophore_count	siderophore_profile
+SRR1010899	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	19	12	0	
+SRR1010901	Klebsiella pneumoniae	ST37				KL14	OL3γ	1	0	15	14	1	ybt
+SRR1010904	Klebsiella pneumoniae	ST3614				KL21	OL3γ	0	0	4	11	0	
+SRR1010906	Klebsiella pneumoniae	ST540				KL13	OL2α.1	0	0	9	12	0	
+SRR1010908	Klebsiella pneumoniae	ST37				KL14	OL3γ	0	0	4	13	0	
+SRR1010910	Klebsiella pneumoniae	ST36				KL27	OL2α.2	1	0	7	11	1	ybt
+SRR1010912	Klebsiella pneumoniae	ST3615				KL2	OL3γ	1	0	6	13	1	ybt
+SRR1010914	Klebsiella pneumoniae	ST37				KL14	OL3γ	1	0	15	14	1	ybt
+SRR1010916	Klebsiella pneumoniae	ST437				KL36	OL4	2	2	16	15	1	ybt
+SRR1010920	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	9	11	0	
+SRR1010922	Klebsiella pneumoniae	ST3832				KL20	OL2α.1	0	0	4	12	0	
+SRR1010924	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	14	11	0	
+SRR1010926	Klebsiella pneumoniae	ST258				KL38	OL3γ	0	1	16	11	0	
+SRR1010928	Klebsiella pneumoniae	ST873				KL38	OL3γ	0	1	11	11	0	
+SRR1010930	Klebsiella pneumoniae	ST3833				KL30	OL3γ	0	0	5	12	0	
+SRR1010932	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	21	12	0	
+SRR1010934	Klebsiella pneumoniae	ST1444				KL10	OL2α.2	0	0	4	13	0	
+SRR1010938	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	3	16	14	1	ybt
+SRR1010940	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	0	8	14	1	ybt
+SRR1010942	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	3	10	14	1	ybt
+SRR1010944	Klebsiella pneumoniae	ST86				KL2	OL2α.1	3	0	4	12	2	iuc+iro
+SRR1010946	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	0	15	15	1	ybt
+SRR1010948	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	1	15	15	1	ybt
+SRR10383455	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	0	5	13	0	
+SRR10383458	Klebsiella pneumoniae	ST636				KL55	OL5	1	0	5	35	1	ybt
+SRR1158974	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	1	23	14	1	ybt
+SRR1159093	Klebsiella pneumoniae	ST17				KL15	OL4	0	0	6	13	0	
+SRR1159295	Klebsiella pneumoniae	ST3834				KL28	OL2α.1	0	0	6	13	0	
+SRR1180685	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	11	0	
+SRR1180727	Klebsiella pneumoniae	ST11				KL24	OL2α.1	1	2	21	14	1	ybt
+SRR1180733	Klebsiella pneumoniae	ST678				KL15	OL4	0	0	4	11	0	
+SRR1180740	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	2	17	14	1	ybt
+SRR1180775	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	12	0	
+SRR1180799	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	12	0	
+SRR1180804	Klebsiella pneumoniae	ST17				KL23	OL2α.2	0	0	4	11	0	
+SRR1180838	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	2	12	14	1	ybt
+SRR1180855	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	12	0	
+SRR1180856	Klebsiella pneumoniae	ST258				KL30	OL2α.2	0	3	15	11	0	
+SRR1180857	Klebsiella pneumoniae	ST76				KL35	OL5	0	0	4	11	0	
+SRR1180858	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	21	11	0	
+SRR1180860	Klebsiella pneumoniae	ST34				KL22	OL2α.1	0	0	4	13	0	
+SRR1180869	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	15	12	0	
+SRR1180876	Klebsiella pneumoniae	ST37				KL15	OL4	0	0	4	12	0	
+SRR1180886	Klebsiella pneumoniae	ST105				KL102	OL2α.2	0	0	4	12	0	
+SRR1180889	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	20	11	0	
+SRR1180896	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	14	12	0	
+SRR1180900	Klebsiella pneumoniae	ST37				KL38	OL3γ	0	0	15	11	0	
+SRR1180903	Klebsiella pneumoniae	ST20				KL28	OL2α.2	4	1	15	31	2	ybt+iuc
+SRR1196658	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	17	12	0	
+SRR1196763	Klebsiella pneumoniae	ST70				KL122	OL2α.2	0	0	5	11	0	
+SRR1196793	Klebsiella pneumoniae	ST17				KL25	OL5	1	0	9	12	1	ybt
+SRR1196798	Klebsiella pneumoniae	ST35				KL110	OL2α.1	0	0	6	12	0	
+SRR1196879	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	1	18	12	0	
+SRR12102917	Klebsiella pneumoniae	ST6558				KL39	OL3γ	1	0	10	12	1	ybt
+SRR12102918	Klebsiella pneumoniae	ST45				KL24	OL2α.1	0	1	13	11	0	
+SRR12102919	Klebsiella pneumoniae	ST45				KL24	OL2α.1	0	1	13	11	0	
+SRR12102920	Klebsiella pneumoniae	ST268				KL20	OL2α.1	5	1	13	12	3	ybt+iuc+iro
+SRR12102921	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	1	16	16	3	ybt+iuc+iro
+SRR12102922	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	1	16	16	3	ybt+iuc+iro
+SRR12102923	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	0	4	15	3	ybt+iuc+iro
+SRR12102924	Klebsiella pneumoniae	ST37				KL136	OL2α.2	0	0	6	11	0	
+SRR12102925	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	1	16	16	3	ybt+iuc+iro
+SRR12102926	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	1	16	16	3	ybt+iuc+iro
+SRR12823549	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	3	26	13	1	ybt
+SRR12823550	Klebsiella pneumoniae	ST11				KL14	OL3γ	1	2	27	13	1	ybt
+SRR12823560	Klebsiella pneumoniae	ST48				KL124	OL2α.1	1	0	14	14	1	ybt
+SRR12823563	Klebsiella pneumoniae	ST231				KL51	OL2α.2	4	2	21	17	2	ybt+iuc
+SRR12823564	Klebsiella pneumoniae	ST11				KL24	OL2α.1	1	3	18	12	1	ybt
+SRR12823565	Klebsiella pneumoniae	ST6547				KL137	OL13	1	3	12	12	1	ybt
+SRR12823566	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	24	11	1	ybt
+SRR12823567	Klebsiella pneumoniae	ST147-1LV				KL10	OL3α/β	0	2	24	10	0	
+SRR12823572	Klebsiella pneumoniae	ST20				KL28	OL2α.2	0	2	22	10	0	
+SRR12823585	Klebsiella pneumoniae	ST6548				KL105	OL2α.2	0	1	21	12	0	
+SRR12823587	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	3	34	13	1	ybt
+SRR12823651	Klebsiella pneumoniae	ST65				KL2	OL2α.2	3	0	4	10	2	iuc+iro
+SRR12823667	Klebsiella pneumoniae	ST39				KL23	OL2α.2	0	2	22	11	0	
+SRR12823669	Klebsiella pneumoniae	ST48				KL62	OL2α.1	1	0	12	14	1	ybt
+SRR12823670	Klebsiella pneumoniae	ST6547				KL137	OL13	1	3	13	12	1	ybt
+SRR12823696	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	17	13	1	ybt
+SRR12823697	Klebsiella pneumoniae	ST340				KL173	OL3γ	0	3	26	12	0	
+SRR12823780	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	3	26	13	1	ybt
+SRR12823781	Klebsiella pneumoniae	ST11				KL14	OL3γ	1	3	27	13	1	ybt
+SRR12823785	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	3	22	12	1	ybt
+SRR12823799	Klebsiella pneumoniae	ST791				KL62	OL2α.1	0	0	4	10	0	
+SRR12823800	Klebsiella pneumoniae	ST17				KL25	OL5	1	3	22	11	1	ybt
+SRR12823801	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	16	13	1	ybt
+SRR12823804	Klebsiella pneumoniae	ST37				KL12	OL10	0	0	14	10	0	
+SRR12823805	Klebsiella pneumoniae	ST29				KL54	OL2α.2	4	0	4	13	3	ybt+iuc+iro
+SRR12823807	Klebsiella pneumoniae	ST11				KL24	OL2α.1	1	2	31	15	1	ybt
+SRR12907707	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	2	20	15	1	ybt
+SRR12907708	Klebsiella pneumoniae	ST437				KL36	OL4	0	2	28	12	0	
+SRR12907711	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	18	14	1	ybt
+SRR12907791	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	21	13	1	ybt
+SRR18175536	Klebsiella pneumoniae	ST35				KL22	OL2α.1	0	0	5	10	0	
+SRR18175540	Klebsiella pneumoniae	ST11				KL105	OL2α.2	1	0	26	10	1	ybt
+SRR18175549	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR18175552	Klebsiella pneumoniae	ST278				KL136	OL2α.2	0	0	4	11	0	
+SRR18175553	Klebsiella pneumoniae	ST661				KL28	OL2α.1	1	0	4	8	1	ybt
+SRR18175554	Klebsiella pneumoniae	ST6594				KL31	OL3α/β	0	0	4	10	0	
+SRR18175555	Klebsiella pneumoniae	ST247				KL10	OL3γ	0	0	2	8	0	
+SRR18175556	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR18175557	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR18175559	Klebsiella pneumoniae	ST4715				KL27	OL2α.2	0	0	4	11	0	
+SRR18175560	Klebsiella pneumoniae	ST1189				KL28	OL2α.1	0	0	4	12	0	
+SRR18175571	Klebsiella pneumoniae	ST628				KL114	OL3γ	0	0	6	10	0	
+SRR18175573	Klebsiella pneumoniae	ST433				KL102	OL2α.2	0	0	4	10	0	
+SRR18175574	Klebsiella pneumoniae	ST35				KL62	OL2α.1	0	0	14	12	0	
+SRR18175584	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	1	18	9	1	ybt
+SRR18175593	Klebsiella pneumoniae	ST6597				KL62	OL2α.1	0	0	5	10	0	
+SRR18175595	Klebsiella pneumoniae	ST200				KL166	OL2α.2	0	0	4	11	0	
+SRR18175596	Klebsiella pneumoniae	ST133				KL116	OL2α.1	2	0	4	13	1	ybt
+SRR18175597	Klebsiella pneumoniae	ST6598				KL30	OL2α.1	0	0	4	10	0	
+SRR18175599	Klebsiella pneumoniae	ST175				KL7	OL3γ	3	0	5	14	2	iuc+iro
+SRR18175605	Klebsiella pneumoniae	ST202				KL124	OL13	0	0	5	9	0	
+SRR18175619	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	24	12	1	ybt
+SRR18175622	Klebsiella pneumoniae	ST17				KL23	OL2α.2	0	0	4	10	0	
+SRR18175625	Klebsiella pneumoniae	ST35				KL22	OL2α.1	0	0	4	9	0	
+SRR18175628	Klebsiella pneumoniae	ST3480-4LV				KL25	OL5	1	0	5	12	1	ybt
+SRR18175630	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR18175633	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR18175645	Klebsiella pneumoniae	ST163				KL106	OL2α.1	0	0	4	11	0	
+SRR18175647	Klebsiella pneumoniae	ST551				KL10	OL2α.1	0	1	17	11	0	
+SRR18175649	Klebsiella pneumoniae	ST14				KL16	OL2α.1	1	1	16	12	1	ybt
+SRR18175651	Klebsiella pneumoniae	ST163				KL106	OL2α.1	0	0	4	11	0	
+SRR18175655	Klebsiella pneumoniae	ST294				KL30	OL2α.1	2	0	4	10	0	
+SRR18175657	Klebsiella pneumoniae	ST194				KL120	OL2α.2	0	0	6	11	0	
+SRR18175658	Klebsiella pneumoniae	ST76				KL31	OL3α/β	1	0	4	11	1	ybt
+SRR18175660	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	1	26	11	1	ybt
+SRR18175661	Klebsiella pneumoniae	ST6488				KL22	OL2α.1	0	0	4	12	0	
+SRR18175665	Klebsiella pneumoniae	ST1537				KL24	OL2α.1	0	0	4	8	0	
+SRR18175666	Klebsiella pneumoniae	ST6599				KL126	OL13	0	0	4	10	0	
+SRR18175671	Klebsiella pneumoniae	ST49				KL39	OL3γ	0	0	4	10	0	
+SRR18175672	Klebsiella pneumoniae	ST4239				KL30	OL2α.1	0	0	4	11	0	
+SRR18175673	Klebsiella pneumoniae	ST391				KL30	OL2α.2	0	1	18	9	0	
+SRR18175680	Klebsiella pneumoniae	ST200				KL13	OL3γ	0	0	5	10	0	
+SRR18175682	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	1	9	9	1	ybt
+SRR18175683	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	0	5	12	1	ybt
+SRR18175684	Klebsiella pneumoniae	ST36				KL27	OL2α.2	0	0	4	11	0	
+SRR18175687	Klebsiella pneumoniae	ST6082				KL58	OL3γ	0	0	4	9	0	
+SRR18175688	Klebsiella pneumoniae	ST556				KL62	OL2α.1	0	0	5	8	0	
+SRR18175690	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	0	22	10	1	ybt
+SRR18175694	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	0	14	11	0	
+SRR18175696	Klebsiella pneumoniae	ST5583				KL132	OL2α.1	0	0	4	10	0	
+SRR18175703	Klebsiella pneumoniae	ST1607				KL55	OL3α/β	0	0	4	9	0	
+SRR18175704	Klebsiella pneumoniae	ST76				KL21	OL3α/β	0	0	5	10	0	
+SRR18175707	Klebsiella pneumoniae	ST587				KL27	OL2α.2	0	0	4	10	1	iro
+SRR18175710	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR18175718	Klebsiella pneumoniae	ST35				KL22	OL2α.1	0	0	4	11	0	
+SRR18175719	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	0	4	14	1	ybt
+SRR18175720	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	0	4	14	1	ybt
+SRR18175721	Klebsiella pneumoniae	ST252				KL116	OL2α.1	0	0	5	12	0	
+SRR18832578	Klebsiella pneumoniae	ST6595				KL54	OL2α.1	1	0	4	13	1	ybt
+SRR18832579	Klebsiella pneumoniae	ST60				KL5	OL2α.1	1	0	8	13	2	ybt+iro
+SRR18832580	Klebsiella pneumoniae	ST60				KL5	OL2α.1	1	0	8	13	2	ybt+iro
+SRR18832581	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	12	0	
+SRR18832584	Klebsiella pneumoniae	ST661				KL47	OL13	0	0	4	10	0	
+SRR2134674	Klebsiella pneumoniae	ST258-1LV				KL107	OL2α.2	0	0	13	14	0	
+SRR2134679	Klebsiella pneumoniae	ST258-1LV				KL107	OL2α.2	0	1	13	14	0	
+SRR2134680	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	0	13	12	0	
+SRR22159789	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	0	12	20	1	ybt
+SRR22159795	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	2	24	13	0	
+SRR22159797	Klebsiella pneumoniae	ST307-2LV				KL114	OL2α.1	0	3	26	17	0	
+SRR22159798	Klebsiella pneumoniae	ST336				KL25	OL5	1	1	16	10	1	ybt
+SRR22159799	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	20	12	0	
+SRR22324425	Klebsiella pneumoniae	ST268				KL20	OL2α.1	1	2	11	14	1	ybt
+SRR24102312	Klebsiella pneumoniae	ST147				KL10	OL3α/β	0	2	35	10	0	
+SRR24102316	Klebsiella pneumoniae	ST231				KL51	OL2α.2	4	2	28	18	2	ybt+iuc
+SRR24102319	Klebsiella pneumoniae	ST231				KL51	OL2α.2	4	2	29	15	2	ybt+iuc
+SRR24102324	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	26	14	1	ybt
+SRR2449251	Klebsiella pneumoniae	ST1419				KL136	OL2α.2	0	1	15	12	0	
+SRR2449299	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1473				KL62	OL4	0	3	20	11	0	
+SRR2449365	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	0	18	13	0	
+SRR24667967	Klebsiella pneumoniae	ST517				KL144	OL2α.1	0	1	6	12	0	
+SRR24667968	Klebsiella pneumoniae	ST997				KL102	OL2α.1	0	0	5	12	0	
+SRR24667969	Klebsiella pneumoniae	ST517				KL144	OL2α.1	0	1	5	12	0	
+SRR24667971	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	12	0	
+SRR24673226	Klebsiella pneumoniae	ST189				KL128	OL3γ	0	1	14	9	0	
+SRR24673228	Klebsiella pneumoniae	ST111				KL63	OL2α.2	1	0	6	10	1	ybt
+SRR24673229	Klebsiella pneumoniae	ST611				KL45	OL2α.2	0	2	7	11	0	
+SRR24673233	Klebsiella pneumoniae	ST6821				KL51	OL2α.2	0	1	20	11	0	
+SRR24673234	Klebsiella pneumoniae	ST268				KL20	OL2α.1	1	1	16	11	1	ybt
+SRR24673235	Klebsiella pneumoniae	ST17				KL122	OL2α.2	0	1	12	9	0	
+SRR24673236	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR24673237	Klebsiella pneumoniae	ST321				KL3	OL2α.2	0	0	5	11	0	
+SRR24673238	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR24673239	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	18	12	1	ybt
+SRR24673240	Klebsiella pneumoniae	ST3164-1LV				KL5	OL3γ	0	1	15	11	0	
+SRR24673244	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	12	0	
+SRR24673245	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	13	0	
+SRR24673246	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	10	0	
+SRR24673247	Klebsiella pneumoniae	ST70				KL15	OL4	0	0	10	11	0	
+SRR24673248	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	10	0	
+SRR24673249	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	14	13	1	ybt
+SRR24673250	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	14	13	1	ybt
+SRR24673251	Klebsiella pneumoniae	ST429				KL27	OL4	0	1	17	8	0	
+SRR24673252	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	10	0	
+SRR24673254	Klebsiella pneumoniae	ST37				KL15	OL4	0	1	9	11	0	
+SRR24673256	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR24673257	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	10	0	
+SRR24673258	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR24673260	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	17	12	0	
+SRR24673261	Klebsiella pneumoniae	ST551				KL103	OL12	0	0	15	9	0	
+SRR24673262	Klebsiella pneumoniae	ST551				KL10	OL2α.1	0	0	15	9	0	
+SRR24673264	Klebsiella pneumoniae	ST35				KL108	OL2α.2	0	1	6	11	0	
+SRR24673265	Klebsiella pneumoniae	ST29				KL54	OL2α.2	0	0	9	10	0	
+SRR24673266	Klebsiella pneumoniae	ST11				KL47	OL13	4	2	28	15	2	ybt+iuc
+SRR24673267	Klebsiella pneumoniae	ST2154				KL27	OL4	0	1	20	12	0	
+SRR24673268	Klebsiella pneumoniae	ST551				KL10	OL2α.1	0	1	17	9	0	
+SRR24673269	Klebsiella pneumoniae	ST6162				KL62	OL2α.1	0	1	11	12	0	
+SRR24673272	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	18	13	1	ybt
+SRR24673273	Klebsiella pneumoniae	ST39				KL62	OL2α.2	1	1	15	13	1	ybt
+SRR24673274	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	16	14	1	ybt
+SRR24673275	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	0	16	12	1	ybt
+SRR24673276	Klebsiella pneumoniae	ST1401				KL146	OL2α.2	0	2	15	12	0	
+SRR24673277	Klebsiella pneumoniae	ST45				KL62	OL2α.1	1	1	10	9	1	ybt
+SRR24673278	Klebsiella pneumoniae	ST39				KL62	OL2α.2	1	1	14	12	1	ybt
+SRR24673279	Klebsiella pneumoniae	ST35				KL110	OL2α.1	1	1	11	11	1	ybt
+SRR24673280	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	0	9	11	0	
+SRR24673281	Klebsiella pneumoniae	ST551				KL10	OL2α.1	0	1	17	9	0	
+SRR24673282	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	1	16	10	1	ybt
+SRR24673283	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	1	16	12	1	ybt
+SRR24673285	Klebsiella pneumoniae	ST323				KL21	OL3γ	1	1	17	9	1	ybt
+SRR24673287	Klebsiella pneumoniae	ST70				KL136	OL2α.2	0	0	7	11	0	
+SRR24673288	Klebsiella pneumoniae	ST983				KL127	OL13	0	1	15	9	0	
+SRR24673289	Klebsiella pneumoniae	ST147				KL10	OL3α/β	0	1	19	10	0	
+SRR24673290	Klebsiella pneumoniae	ST11				KL105	OL2α.2	0	1	17	11	0	
+SRR24673291	Klebsiella pneumoniae	ST11				KL105	OL2α.2	1	1	8	11	1	ybt
+SRR24673294	Klebsiella pneumoniae	ST268				KL20	OL2α.1	0	0	6	12	0	
+SRR24673297	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR24673298	Klebsiella pneumoniae	ST14				KL16	OL2α.1	0	1	16	11	0	
+SRR24673299	Klebsiella pneumoniae	ST37				KL15	OL4	0	1	9	11	0	
+SRR24673300	Klebsiella pneumoniae	ST14				KL16	OL2α.1	0	1	16	11	0	
+SRR24673301	Klebsiella pneumoniae	ST1540				KL24	OL2α.1	0	1	5	10	0	
+SRR24673302	Klebsiella pneumoniae	ST14				KL16	OL2α.1	0	1	16	11	0	
+SRR24673303	Klebsiella pneumoniae	ST36				KL102	OL2α.2	0	0	4	12	0	
+SRR24673305	Klebsiella pneumoniae	ST29				KL19	OL2α.2	1	1	12	13	1	ybt
+SRR24673307	Klebsiella pneumoniae	ST17				KL122	OL2α.2	0	0	17	9	0	
+SRR24673308	Klebsiella pneumoniae	ST11				KL24	OL2α.1	1	3	23	14	1	ybt
+SRR24673309	Klebsiella pneumoniae	ST2154				KL27	OL4	0	1	22	11	0	
+SRR24673310	Klebsiella pneumoniae	ST17				KL122	OL2α.2	0	0	12	8	0	
+SRR24673311	Klebsiella pneumoniae	ST496				KL46	OL3γ	3	2	14	9	1	iuc
+SRR24673313	Klebsiella pneumoniae	ST17				KL122	OL2α.2	0	0	16	10	0	
+SRR24673314	Klebsiella pneumoniae	ST45				KL62	OL2α.1	1	1	22	11	1	ybt
+SRR24673316	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	10	0	
+SRR24673317	Klebsiella pneumoniae	ST437				KL52	OL13	4	2	26	14	2	ybt+iuc
+SRR24673318	Klebsiella pneumoniae	ST661				KL158	OL3α/β	1	1	13	11	1	ybt
+SRR24673320	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR24673321	Klebsiella pneumoniae	ST268				KL20	OL2α.1	1	1	12	13	1	ybt
+SRR24673323	Klebsiella pneumoniae	ST35				KL108	OL2α.2	1	1	6	12	1	ybt
+SRR24673324	Klebsiella pneumoniae	ST4242				KL8	OL2α.1	1	1	16	13	1	ybt
+SRR24673325	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	1	15	12	1	ybt
+SRR24673326	Klebsiella pneumoniae	ST39				KL2	OL2α.1	1	1	15	12	1	ybt
+SRR24673327	Klebsiella pneumoniae	ST45				KL5	OL3γ	1	0	5	12	1	ybt
+SRR24673328	Klebsiella pneumoniae	ST603-1LV				KL22	OL3γ	1	0	10	10	1	ybt
+SRR24673329	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	8	12	1	ybt
+SRR24673332	Klebsiella pneumoniae	ST37				KL38	OL3γ	1	1	17	8	1	ybt
+SRR24673334	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	1	16	10	1	ybt
+SRR24673336	Klebsiella pneumoniae	ST327				KL39	OL2α.1	0	1	11	9	0	
+SRR24673340	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	1	16	13	1	ybt
+SRR24673341	Klebsiella pneumoniae	ST611				KL45	OL2α.2	0	2	7	10	0	
+SRR24673343	Klebsiella pneumoniae	ST15				KL19	OL2α.2	0	1	20	12	0	
+SRR24673344	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	18	12	1	ybt
+SRR25437056	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	13	11	0	
+SRR25437407	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	13	12	0	
+SRR25437413	Klebsiella pneumoniae	ST1774				KL38	OL12	0	1	14	10	0	
+SRR25437439	Klebsiella pneumoniae	ST412				KL57	OL3γ	3	0	6	10	2	iuc+iro
+SRR25437472	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	10	12	1	ybt
+SRR25438435	Klebsiella pneumoniae	ST397				KL158	OL2α.1	0	1	6	9	0	
+SRR25438475	Klebsiella pneumoniae	ST353				KL110	OL3γ	1	1	15	10	1	ybt
+SRR25438525	Klebsiella pneumoniae	ST391				KL30	OL2α.2	1	1	14	11	1	ybt
+SRR25573040	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	16	14	1	ybt
+SRR25573046	Klebsiella pneumoniae	ST35				KL16	OL2α.1	1	0	5	11	1	ybt
+SRR25573071	Klebsiella pneumoniae	ST35				KL22	OL2α.1	0	0	5	9	0	
+SRR26176489	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	13	11	0	
+SRR26176507	Klebsiella pneumoniae	ST35				KL110	OL2α.1	1	1	14	12	1	ybt
+SRR26176509	Klebsiella pneumoniae	ST219				KL114	OL2α.1	1	1	14	11	1	ybt
+SRR26176517	Klebsiella pneumoniae	ST469				KL139	OL3γ	0	1	10	9	0	
+SRR26176537	Klebsiella pneumoniae	ST35				KL110	OL2α.1	1	1	14	12	1	ybt
+SRR26176540	Klebsiella pneumoniae	ST469				KL139	OL3γ	0	1	15	8	0	
+SRR26176550	Klebsiella pneumoniae	ST35				KL110	OL2α.1	1	1	14	10	1	ybt
+SRR26176554	Klebsiella pneumoniae	ST29				KL54	OL2α.2	1	1	10	12	2	ybt+iro
+SRR26176564	Klebsiella pneumoniae	ST391				KL30	OL2α.2	0	1	14	9	0	
+SRR26176566	Klebsiella pneumoniae	ST313-1LV				KL61	OL3α/β	0	0	15	11	0	
+SRR26412209	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	25	16	2	ybt+iuc
+SRR26412210	Klebsiella pneumoniae	ST4075				KL183	OL13	0	0	4	11	0	
+SRR26412211	Klebsiella pneumoniae	ST461				KL62	OL2α.2	0	0	4	25	0	
+SRR26412212	Klebsiella pneumoniae	ST34				KL128	OL3γ	0	0	4	9	0	
+SRR26412213	Klebsiella pneumoniae	ST395				KL2	OL2α.1	1	2	13	13	1	ybt
+SRR26412214	Klebsiella pneumoniae	ST380				KL2	OL2α.1	5	0	4	20	3	ybt+iuc+iro
+SRR26412215	Klebsiella pneumoniae	ST37				KL15	OL4	3	1	14	15	1	iuc
+SRR26412216	Klebsiella pneumoniae	ST1621				KL46	OL3γ	0	1	4	10	0	
+SRR26412217	Klebsiella pneumoniae	ST70				KL122	OL2α.2	0	1	22	11	0	
+SRR26412218	Klebsiella pneumoniae	ST150-1LV				KL25	OL3α/β	0	1	19	10	0	
+SRR26412219	Klebsiella pneumoniae	ST111				KL63	OL2α.2	1	0	8	11	1	ybt
+SRR26412220	Klebsiella pneumoniae	ST485				KL183	OL13	1	0	10	12	1	ybt
+SRR26412221	Klebsiella pneumoniae	ST711				KL54	OL2α.2	1	1	14	9	1	ybt
+SRR26412222	Klebsiella pneumoniae	ST1835				KL33	OL3γ	0	0	4	11	0	
+SRR26412223	Klebsiella pneumoniae	ST2441				KL14	OL3γ	0	0	4	11	0	
+SRR26412224	Klebsiella pneumoniae	ST340				KL15	OL4	1	2	25	13	1	ybt
+SRR26412225	Klebsiella pneumoniae	ST987				KL46	OL3γ	0	0	14	10	0	
+SRR26412226	Klebsiella pneumoniae	ST1842				KL3	OL2α.2	0	1	17	14	0	
+SRR26412227	Klebsiella pneumoniae	ST198				KL30	OL2α.1	0	0	4	11	0	
+SRR26412228	Klebsiella pneumoniae	ST200				KL39	OL3γ	0	0	4	10	0	
+SRR26412229	Klebsiella pneumoniae	ST17				KL62	OL2α.2	0	2	13	14	0	
+SRR26412230	Klebsiella pneumoniae	ST309				KL42	OL4	0	0	13	10	0	
+SRR26412231	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	2	19	15	1	ybt
+SRR26412232	Klebsiella pneumoniae	ST1838				KL14	OL3γ	0	1	6	10	0	
+SRR26412233	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	2	39	13	1	ybt
+SRR26412235	Klebsiella pneumoniae	ST322				KL17	OL4	0	1	16	11	0	
+SRR26412236	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	16	14	1	ybt
+SRR26412237	Klebsiella pneumoniae	ST636				KL61	OL5	0	0	4	10	0	
+SRR26412238	Klebsiella pneumoniae	ST48				KL62	OL2α.1	3	1	28	13	1	iuc
+SRR26412239	Klebsiella pneumoniae	ST2217				KL13	OL3γ	0	1	17	10	0	
+SRR26412240	Klebsiella pneumoniae	ST661				KL28	OL2α.1	0	1	17	11	0	
+SRR26412241	Klebsiella pneumoniae	ST1686				KL113	OL2α.1	0	0	5	13	0	
+SRR26412242	Klebsiella pneumoniae	ST268				KL20	OL2α.1	5	1	14	14	3	ybt+iuc+iro
+SRR26412243	Klebsiella pneumoniae	ST244				KL35	OL5	0	2	22	12	0	
+SRR26412244	Klebsiella pneumoniae	ST234				KL30	OL2α.2	2	0	20	12	1	ybt
+SRR26412245	Klebsiella pneumoniae	ST65				KL2	OL2α.2	2	0	5	19	1	ybt
+SRR26412246	Klebsiella pneumoniae	ST348				KL62	OL2α.1	0	1	16	12	0	
+SRR26412247	Klebsiella pneumoniae	ST133				KL116	OL2α.1	2	0	4	15	1	ybt
+SRR26412248	Klebsiella pneumoniae	ST1787				KL148	OL2α.2	0	1	18	11	0	
+SRR26412249	Klebsiella pneumoniae	ST3050				KL36	OL4	0	2	23	13	0	
+SRR26412250	Klebsiella pneumoniae	ST44				KL57	OL2α.2	0	0	14	10	0	
+SRR26412251	Klebsiella pneumoniae	ST38				KL52	OL13	1	2	19	13	1	ybt
+SRR26412252	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	2	26	12	0	
+SRR26412253	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	3	20	11	1	ybt
+SRR26412254	Klebsiella pneumoniae	ST2071				KL51	OL2α.2	3	2	22	15	1	iuc
+SRR26412255	Klebsiella pneumoniae	ST5448				KL125	OL3α/β	0	0	4	8	0	
+SRR26412256	Klebsiella pneumoniae	ST253				KL15	OL4	0	0	4	11	0	
+SRR26412257	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	15	13	1	ybt
+SRR26412258	Klebsiella pneumoniae	ST36				KL27	OL2α.2	1	0	4	10	1	ybt
+SRR26412259	Klebsiella pneumoniae	ST15				KL146	OL2α.2	0	0	13	12	0	
+SRR26412260	Klebsiella pneumoniae	ST199				KL154	OL2α.1	0	2	23	11	0	
+SRR26412261	Klebsiella pneumoniae	ST2279				KL3	OL2α.2	0	1	16	10	0	
+SRR26412262	Klebsiella pneumoniae	ST1				KL110	OL2α.1	0	1	24	13	0	
+SRR26412263	Klebsiella pneumoniae	ST1966				KL119	OL4	0	0	4	11	0	
+SRR26412264	Klebsiella pneumoniae	ST5447				KL30	OL3γ	0	0	5	10	0	
+SRR26412265	Klebsiella pneumoniae	ST1440				KL19	OL2α.2	0	0	10	12	0	
+SRR26412266	Klebsiella pneumoniae	ST2623				KL52	OL10	0	0	6	11	0	
+SRR26412267	Klebsiella pneumoniae	ST29				KL30	OL2α.2	0	0	9	11	0	
+SRR26412268	Klebsiella pneumoniae	ST394				KL3	OL2α.2	0	2	17	12	0	
+SRR26412269	Klebsiella pneumoniae	ST1583				KL102	OL2α.2	0	0	19	10	0	
+SRR26412270	Klebsiella pneumoniae	ST405				KL151	OL4	1	1	17	14	1	ybt
+SRR26412272	Klebsiella pneumoniae	ST11				KL105	OL2α.2	0	1	21	12	0	
+SRR26412273	Klebsiella pneumoniae	ST1271				KL28	OL2α.2	1	0	7	10	1	ybt
+SRR26412274	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	1	16	14	1	ybt
+SRR26412275	Klebsiella pneumoniae	ST336				KL25	OL5	1	0	7	11	1	ybt
+SRR26412276	Klebsiella pneumoniae	ST20				KL28	OL2α.2	0	1	12	9	0	
+SRR26412277	Klebsiella pneumoniae	ST2202				KL14	OL3γ	0	0	4	10	0	
+SRR26412278	Klebsiella pneumoniae	ST788				KL46	OL3γ	0	1	17	9	0	
+SRR26412279	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	3	20	12	0	
+SRR26412280	Klebsiella pneumoniae	ST22				KL9	OL2α.2	0	1	14	11	0	
+SRR26412281	Klebsiella pneumoniae	ST5446				KL62	OL2α.1	0	1	13	13	0	
+SRR26412282	Klebsiella pneumoniae	ST392				KL27	OL4	0	3	19	13	0	
+SRR26412283	Klebsiella pneumoniae	ST43				KL61	OL2α.1	0	1	11	14	0	
+SRR26412284	Klebsiella pneumoniae	ST147				KL64	OL2α.1	0	2	21	11	0	
+SRR26412285	Klebsiella pneumoniae	ST391				KL30	OL2α.2	0	1	13	11	0	
+SRR26412286	Klebsiella pneumoniae	ST1399				KL43	OL2α.1	4	1	17	18	2	ybt+iuc
+SRR26412287	Klebsiella pneumoniae	ST23				KL1	OL2α.2	2	2	17	16	1	ybt
+SRR26412288	Klebsiella pneumoniae	ST342				KL30	OL2α.2	0	0	4	10	0	
+SRR26412289	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	3	21	20	0	
+SRR26412290	Klebsiella pneumoniae	ST551				KL10	OL2α.1	0	1	17	10	0	
+SRR26412291	Klebsiella pneumoniae	ST261				KL38	OL2α.2	1	0	15	15	1	ybt
+SRR26412292	Klebsiella pneumoniae	ST3705				KL60	OL2α.1	0	0	16	13	0	
+SRR26412293	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	3	22	11	1	ybt
+SRR26412294	Klebsiella pneumoniae	ST37				KL38	OL3γ	0	1	11	11	0	
+SRR26412295	Klebsiella pneumoniae	ST5450				KL58	OL3γ	0	1	14	9	0	
+SRR26412296	Klebsiella pneumoniae	ST5449				KL113	OL3γ	0	0	10	10	0	
+SRR26412297	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	25	13	1	ybt
+SRR26412298	Klebsiella pneumoniae	ST512				KL107	OL2α.2	0	3	18	12	0	
+SRR26412299	Klebsiella pneumoniae	ST323				KL21	OL3γ	0	1	17	10	0	
+SRR26412300	Klebsiella pneumoniae	ST4833				KL31	OL5	0	0	1	12	0	
+SRR26412301	Klebsiella pneumoniae	ST471				KL57	OL2α.2	0	1	16	11	0	
+SRR26412302	Klebsiella pneumoniae	ST252				KL51	OL2α.2	0	0	16	12	0	
+SRR26412303	Klebsiella pneumoniae	ST4270				KL142	OL3γ	0	0	11	9	0	
+SRR26412304	Klebsiella pneumoniae	ST134				KL25	OL5	0	0	5	10	0	
+SRR26412306	Klebsiella pneumoniae	ST686				KL5	OL2α.1	1	1	15	12	1	ybt
+SRR26412307	Klebsiella pneumoniae	ST86				KL2	OL2α.1	3	0	4	11	2	iuc+iro
+SRR26412308	Klebsiella pneumoniae	ST107				KL10	OL2α.1	1	2	19	15	1	ybt
+SRR26412309	Klebsiella pneumoniae	ST39				KL23	OL2α.2	0	0	7	11	0	
+SRR26809094	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	16	14	1	ybt
+SRR26809113	Klebsiella pneumoniae	ST42				KL122	OL2α.2	0	0	14	10	0	
+SRR26809117	Klebsiella pneumoniae	ST405				KL151	OL4	0	1	17	10	0	
+SRR26809118	Klebsiella pneumoniae	ST348				KL62	OL2α.1	0	1	12	11	0	
+SRR26809126	Klebsiella pneumoniae	ST219				KL114	OL2α.1	0	1	15	11	0	
+SRR26809127	Klebsiella pneumoniae	ST666-2LV				KL18	OL4	0	1	14	9	0	
+SRR26809128	Klebsiella pneumoniae	ST348				KL62	OL2α.1	1	1	12	12	1	ybt
+SRR26809144	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	16	14	1	ybt
+SRR26809146	Klebsiella pneumoniae	ST107				KL81	OL2α.1	0	1	16	12	0	
+SRR27984545	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	26	13	2	ybt+iuc
+SRR27984553	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	1	6	13	1	ybt
+SRR28625626	Klebsiella pneumoniae	ST45				KL62	OL2α.1	4	2	14	13	2	ybt+iuc
+SRR28625636	Klebsiella pneumoniae	ST39				KL2	OL2α.1	1	1	8	14	1	ybt
+SRR28625637	Klebsiella pneumoniae	ST405				KL151	OL4	0	2	21	10	0	
+SRR28625640	Klebsiella pneumoniae	ST307				KL10	OL3α/β	1	1	18	10	1	ybt
+SRR28625648	Klebsiella pneumoniae	ST405				KL151	OL4	0	2	21	10	0	
+SRR28625669	Klebsiella pneumoniae	ST603				KL22	OL3γ	0	1	5	9	0	
+SRR28813399	Klebsiella pneumoniae	ST11				KL24	OL2α.1	4	3	19	14	2	ybt+iuc
+SRR28813407	Klebsiella pneumoniae	ST87-1LV				KL106	OL3γ	0	1	9	10	0	
+SRR29202111	Klebsiella pneumoniae	ST219				KL114	OL2α.1	1	1	14	13	1	ybt
+SRR29202113	Klebsiella pneumoniae	ST399-1LV				KL136	OL2α.2	1	1	8	14	1	ybt
+SRR29202119	Klebsiella pneumoniae	ST219				KL114	OL2α.1	1	1	14	13	1	ybt
+SRR29202122	Klebsiella pneumoniae	ST469				KL139	OL3γ	0	1	18	10	0	
+SRR29202136	Klebsiella pneumoniae	ST219				KL114	OL2α.1	1	1	14	12	1	ybt
+SRR29202138	Klebsiella pneumoniae	ST101				KL2	OL2α.2	0	1	12	12	0	
+SRR29202139	Klebsiella pneumoniae	ST515				KL183	OL13	0	1	10	12	0	
+SRR29202152	Klebsiella pneumoniae	ST3157				KL30	OL2α.2	0	1	11	11	0	
+SRR29202154	Klebsiella pneumoniae	ST3157				KL30	OL2α.2	0	1	11	11	0	
+SRR29202155	Klebsiella pneumoniae	ST3157				KL30	OL2α.2	0	1	11	11	0	
+SRR29202173	Klebsiella pneumoniae	ST40				KL155	OL13	0	1	16	11	0	
+SRR29202183	Klebsiella pneumoniae	ST20				KL24	OL2α.1	0	0	8	12	0	
+SRR29202186	Klebsiella pneumoniae	ST20				KL24	OL2α.1	0	0	9	12	0	
+SRR29202187	Klebsiella pneumoniae	ST20				KL24	OL2α.1	0	0	9	12	0	
+SRR3057129	Klebsiella quasipneumoniae subsp. similipneumoniae	ST4818-2LV				KL109	OL13	0	2	19	10	0	
+SRR3057130	Klebsiella quasipneumoniae subsp. similipneumoniae	ST4818-2LV				KL109	OL13	0	0	7	10	0	
+SRR30762160	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	17	11	1	ybt
+SRR30762161	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	3	29	13	2	ybt+iuc
+SRR30762162	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	12	1	ybt
+SRR30762163	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	32	12	2	ybt+iuc
+SRR30762164	Klebsiella pneumoniae	ST383				KL30	OL2α.2	3	2	30	14	1	iuc
+SRR30762165	Klebsiella pneumoniae	ST29				KL54	OL2α.2	4	2	29	11	2	ybt+iuc
+SRR30762166	Klebsiella pneumoniae	ST13				KL3	OL2α.2	2	2	15	11	1	ybt
+SRR30762167	Klebsiella pneumoniae	ST383				KL30	OL2α.2	4	2	25	15	2	ybt+iuc
+SRR30762168	Klebsiella pneumoniae	ST101				KL64	OL2α.1	4	2	29	13	2	ybt+iuc
+SRR30762169	Klebsiella pneumoniae	ST1418				KL13	OL3γ	1	2	20	12	1	ybt
+SRR30762170	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	13	1	ybt
+SRR30762171	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	31	10	2	ybt+iuc
+SRR30762172	Klebsiella pneumoniae	ST383				KL30	OL2α.2	3	2	26	13	1	iuc
+SRR30762173	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	24	13	2	ybt+iuc
+SRR30762174	Klebsiella pneumoniae	ST383				KL30	OL2α.2	4	2	29	15	2	ybt+iuc
+SRR30762175	Klebsiella pneumoniae	ST383				KL30	OL2α.2	4	2	25	15	2	ybt+iuc
+SRR30762176	Klebsiella pneumoniae	ST383				KL30	OL2α.2	4	2	28	15	2	ybt+iuc
+SRR30762177	Klebsiella pneumoniae	ST383				KL30	OL2α.2	0	2	16	11	0	
+SRR30762178	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	16	11	1	ybt
+SRR30762179	Klebsiella pneumoniae	ST383				KL30	OL2α.2	4	2	28	15	2	ybt+iuc
+SRR30762180	Klebsiella pneumoniae	ST2096				KL64	OL2α.1	4	3	25	12	2	ybt+iuc
+SRR30762181	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	21	11	1	ybt
+SRR30762182	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	26	12	2	ybt+iuc
+SRR30762183	Klebsiella pneumoniae	ST383				KL30	OL2α.2	3	3	32	15	1	iuc
+SRR30762184	Klebsiella pneumoniae	ST383				KL30	OL2α.2	1	2	15	14	1	ybt
+SRR30762185	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	22	10	1	ybt
+SRR30762186	Klebsiella pneumoniae	ST383				KL30	OL2α.2	0	2	24	14	0	
+SRR30762187	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	19	12	1	ybt
+SRR30762188	Klebsiella pneumoniae	ST340				KL15	OL4	0	2	20	13	0	
+SRR30762189	Klebsiella pneumoniae	ST383				KL30	OL2α.2	3	2	32	13	1	iuc
+SRR30762190	Klebsiella pneumoniae	ST101				KL64	OL2α.1	1	2	19	14	1	ybt
+SRR30762191	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	25	12	1	ybt
+SRR30762192	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	36	12	1	ybt
+SRR30762193	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	20	11	1	ybt
+SRR30762194	Klebsiella pneumoniae	ST147				KL64	OL2α.1	0	2	28	15	0	
+SRR30762195	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	11	1	ybt
+SRR30762196	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	20	12	1	ybt
+SRR30762197	Klebsiella pneumoniae	ST219				KL114	OL2α.1	0	2	22	11	0	
+SRR30762198	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	12	1	ybt
+SRR30762200	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	17	11	1	ybt
+SRR30762201	Klebsiella pneumoniae	ST13				KL122	OL2α.2	0	2	14	9	0	
+SRR30762202	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	20	13	1	ybt
+SRR30762203	Klebsiella pneumoniae	ST11				KL24	OL2α.1	0	2	11	12	0	
+SRR30762204	Klebsiella pneumoniae	ST661				KL109	OL2α.2	1	2	13	13	1	ybt
+SRR30762205	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	16	13	1	ybt
+SRR30762206	Klebsiella pneumoniae	ST13				KL122	OL2α.2	0	2	13	10	0	
+SRR30762207	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	18	12	1	ybt
+SRR30762208	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	19	12	1	ybt
+SRR30762209	Klebsiella pneumoniae	ST152				KL149	OL4	1	2	13	11	1	ybt
+SRR30762210	Klebsiella pneumoniae	ST218				KL57	OL2α.2	4	2	20	13	3	ybt+iuc+iro
+SRR30762211	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	20	15	1	ybt
+SRR30762212	Klebsiella pneumoniae	ST395				KL108	OL2α.2	1	2	21	13	1	ybt
+SRR30762213	Klebsiella pneumoniae	ST45				KL127	OL13	1	2	14	13	1	ybt
+SRR30762214	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	17	13	1	ybt
+SRR30762215	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	2	21	11	0	
+SRR30762216	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	19	12	1	ybt
+SRR30762217	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	21	13	1	ybt
+SRR30762218	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	2	16	13	0	
+SRR30762219	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	22	12	1	ybt
+SRR30762220	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	22	11	1	ybt
+SRR30762221	Klebsiella pneumoniae	ST218				KL57	OL2α.2	4	2	22	13	3	ybt+iuc+iro
+SRR30762222	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	19	12	1	ybt
+SRR30762223	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	21	9	1	ybt
+SRR30762224	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	21	13	1	ybt
+SRR30762225	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	21	13	1	ybt
+SRR30762226	Klebsiella pneumoniae	ST395				KL108	OL2α.2	1	2	22	12	1	ybt
+SRR30762227	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	23	13	1	ybt
+SRR30762228	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	22	11	1	ybt
+SRR30762229	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	12	1	ybt
+SRR30762230	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	2	20	11	0	
+SRR30762231	Klebsiella pneumoniae	ST987				KL46	OL3γ	0	2	16	10	0	
+SRR30762232	Klebsiella pneumoniae	ST86				KL2	OL2α.1	3	2	22	12	2	iuc+iro
+SRR30762233	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	2	20	11	1	ybt
+SRR30762234	Klebsiella pneumoniae	ST395				KL108	OL2α.2	1	2	21	13	1	ybt
+SRR30762235	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	20	11	1	ybt
+SRR30762236	Klebsiella pneumoniae	ST2086				KL13	OL2α.1	1	2	17	11	1	ybt
+SRR30762237	Klebsiella pneumoniae	ST514				KL39	OL2α.1	0	2	9	10	0	
+SRR30762238	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	2	19	11	0	
+SRR30762239	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	18	13	1	ybt
+SRR30762240	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	2	6	15	3	ybt+iuc+iro
+SRR30762241	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	16	12	1	ybt
+SRR30762242	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	18	12	1	ybt
+SRR30762243	Klebsiella pneumoniae	ST383				KL30	OL2α.2	0	2	20	11	0	
+SRR30762244	Klebsiella pneumoniae	ST13				KL3	OL2α.2	2	2	21	13	1	ybt
+SRR30762245	Klebsiella pneumoniae	ST101				KL17	OL2α.1	0	2	17	12	0	
+SRR30762246	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	24	10	1	ybt
+SRR30762247	Klebsiella pneumoniae	ST129				KL108	OL2α.2	0	2	22	13	0	
+SRR30762248	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	14	12	1	ybt
+SRR30762249	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	16	11	1	ybt
+SRR30762250	Klebsiella pneumoniae	ST14				KL16	OL2α.1	0	2	21	11	0	
+SRR30762251	Klebsiella pneumoniae	ST323				KL21	OL3γ	0	2	19	11	0	
+SRR30762252	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	18	11	1	ybt
+SRR30762253	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	18	13	1	ybt
+SRR30762254	Klebsiella pneumoniae	ST383				KL30	OL2α.2	0	2	20	12	0	
+SRR30762255	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	21	14	1	ybt
+SRR3095383	Klebsiella pneumoniae	ST327				KL140	OL2α.2	0	2	10	12	0	
+SRR3168635	Klebsiella pneumoniae	ST198				KL30	OL2α.1	0	0	4	13	0	
+SRR3168637	Klebsiella pneumoniae	ST1966				KL125	OL5	0	0	4	12	0	
+SRR31742301	Klebsiella pneumoniae	ST23				KL57	OL2α.2	4	2	26	14	2	ybt+iuc
+SRR3185093	Klebsiella pneumoniae	ST258				KL25	OL5	0	2	20	9	0	
+SRR3185094	Klebsiella pneumoniae	ST231				KL51	OL2α.2	4	2	20	12	2	ybt+iuc
+SRR3185095	Klebsiella pneumoniae	ST258				KL25	OL5	0	2	23	12	0	
+SRR3185096	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	26	16	1	ybt
+SRR3185097	Klebsiella pneumoniae	ST11				KL24	OL2α.1	1	2	21	13	1	ybt
+SRR3185098	Klebsiella pneumoniae	ST11				KL24	OL2α.1	1	2	22	14	1	ybt
+SRR3219268	Klebsiella pneumoniae	ST34				KL57	OL2α.2	0	2	24	13	0	
+SRR3219271	Klebsiella pneumoniae	ST34				KL57	OL2α.2	0	2	21	13	0	
+SRR3219817	Klebsiella pneumoniae	ST34				KL57	OL2α.2	0	2	18	13	0	
+SRR3219826	Klebsiella pneumoniae	ST34				KL57	OL2α.2	0	2	17	12	0	
+SRR3219827	Klebsiella pneumoniae	ST34				KL57	OL2α.2	0	2	21	13	0	
+SRR3219831	Klebsiella pneumoniae	ST34				KL57	OL3γ	0	2	21	14	0	
+SRR3219834	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	2	29	14	1	ybt
+SRR3219835	Klebsiella pneumoniae	ST43				KL30	OL2α.1	4	2	14	12	2	ybt+iuc
+SRR3221668	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	2	36	12	0	
+SRR3221674	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	2	37	14	1	ybt
+SRR3221675	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	2	37	14	1	ybt
+SRR3221676	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	22	11	1	ybt
+SRR3221684	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	22	13	1	ybt
+SRR3221782	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	13	1	ybt
+SRR3221942	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	22	12	1	ybt
+SRR3221987	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	2	16	13	1	ybt
+SRR3222075	Klebsiella pneumoniae	ST43				KL30	OL2α.1	4	2	10	12	2	ybt+iuc
+SRR3222121	Klebsiella pneumoniae	ST43				KL30	OL2α.1	4	2	10	12	2	ybt+iuc
+SRR3222198	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	21	13	1	ybt
+SRR3222204	Klebsiella pneumoniae	ST437				KL52	OL13	0	2	23	12	0	
+SRR3222213	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	2	16	15	0	
+SRR3222390	Klebsiella pneumoniae	ST36				KL27	OL2α.2	1	2	5	12	1	ybt
+SRR3222406	Klebsiella pneumoniae	ST34				KL57	OL2α.2	0	2	16	15	0	
+SRR3222408	Klebsiella pneumoniae	ST34				KL57	OL2α.2	0	2	11	13	0	
+SRR3222415	Klebsiella pneumoniae	ST525				KL45	OL2α.2	0	1	24	16	0	
+SRR3222424	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	17	14	1	ybt
+SRR3222446	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	16	14	1	ybt
+SRR3222447	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	16	18	1	ybt
+SRR32399094	Klebsiella pneumoniae	ST240-1LV				KL62	OL2α.2	0	2	3	12	0	
+SRR32399095	Klebsiella pneumoniae	ST240-1LV				KL62	OL2α.2	0	2	4	12	0	
+SRR32399096	Klebsiella pneumoniae	ST240-1LV				KL62	OL2α.2	0	2	3	12	0	
+SRR32535787	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	22	13	1	ybt
+SRR32535789	Klebsiella pneumoniae	ST392				KL27	OL4	1	2	33	15	1	ybt
+SRR32535790	Klebsiella pneumoniae	ST530				KL54	OL2α.2	0	2	10	14	0	
+SRR32535791	Klebsiella pneumoniae	ST651-1LV				KL19	OL2α.2	0	2	17	15	0	
+SRR32535792	Klebsiella pneumoniae	ST392				KL27	OL4	1	2	23	14	1	ybt
+SRR32535802	Klebsiella pneumoniae	ST392				KL27	OL4	1	2	22	14	1	ybt
+SRR32535803	Klebsiella pneumoniae	ST392				KL27	OL4	1	2	21	13	1	ybt
+SRR32535804	Klebsiella pneumoniae	ST392				KL27	OL4	1	2	19	15	1	ybt
+SRR32654017	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	12	56	1	ybt
+SRR32654033	Klebsiella pneumoniae	ST14				KL174	OL2α.2	1	1	15	33	1	ybt
+SRR32669572	Klebsiella pneumoniae	ST12				KL157	OL2α.1	0	1	19	67	0	
+SRR32669583	Klebsiella pneumoniae	ST17				KL2	OL2α.1	1	1	13	48	1	ybt
+SRR32669594	Klebsiella pneumoniae	ST45				KL102	OL2α.1	1	1	13	39	1	ybt
+SRR32686434	Klebsiella pneumoniae	ST14				KL174	OL2α.2	1	1	15	16	1	ybt
+SRR32686435	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	1	16	12	0	
+SRR32686440	Klebsiella pneumoniae	ST3719				KL179	OL15	0	0	4	10	0	
+SRR32686441	Klebsiella pneumoniae	ST530				KL62	OL2α.2	0	1	13	12	0	
+SRR32686447	Klebsiella pneumoniae	ST48				KL62	OL2α.1	1	1	15	15	1	ybt
+SRR32686448	Klebsiella pneumoniae	ST48				KL62	OL2α.1	1	1	15	15	1	ybt
+SRR32686449	Klebsiella pneumoniae	ST530				KL62	OL2α.2	0	1	13	14	0	
+SRR32686450	Klebsiella pneumoniae	ST788				KL46	OL3γ	0	0	12	13	0	
+SRR32686451	Klebsiella quasipneumoniae subsp. similipneumoniae	ST1859-1LV				KL35	OL5	0	1	26	8	0	
+SRR32686452	Klebsiella pneumoniae	ST45				KL20	OL3α/β	1	1	13	12	1	ybt
+SRR32686453	Klebsiella pneumoniae	ST1741				KL104	OL2α.2	0	1	10	12	0	
+SRR32686454	Klebsiella pneumoniae	ST1741				KL104	OL2α.2	0	1	12	12	0	
+SRR32686456	Klebsiella pneumoniae	ST2171				KL15	OL4	0	1	13	12	0	
+SRR32686457	Klebsiella pneumoniae	ST2171				KL15	OL4	0	1	9	12	0	
+SRR32686461	Klebsiella pneumoniae	ST17				KL2	OL2α.1	1	1	13	14	1	ybt
+SRR32699216	Klebsiella pneumoniae	ST1658				KL19	OL3γ	0	0	5	10	0	
+SRR32699218	Klebsiella pneumoniae	ST3293				KL60	OL3γ	0	0	5	9	0	
+SRR32699234	Klebsiella pneumoniae	ST45				KL20	OL3α/β	0	1	13	10	0	
+SRR32699251	Klebsiella pneumoniae	ST45				KL102	OL2α.1	1	1	13	13	1	ybt
+SRR32699254	Klebsiella pneumoniae	ST223-1LV				KL23	OL2α.2	0	0	4	11	0	
+SRR32699255	Klebsiella pneumoniae	ST147				KL10	OL3α/β	0	1	22	11	0	
+SRR32699256	Klebsiella pneumoniae	ST716				KL110	OL2α.1	1	1	17	13	1	ybt
+SRR32699257	Klebsiella pneumoniae	ST716				KL110	OL2α.1	1	1	16	14	1	ybt
+SRR32701795	Klebsiella pneumoniae	ST340				KL15	OL4	1	1	27	13	1	ybt
+SRR32701797	Klebsiella pneumoniae	ST420				KL20	OL2α.1	0	1	8	12	0	
+SRR32701798	Klebsiella pneumoniae	ST45				KL102	OL2α.1	1	1	13	14	1	ybt
+SRR32701800	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	1	22	21	1	ybt
+SRR32701801	Klebsiella pneumoniae	ST12				KL157	OL2α.1	0	1	18	12	0	
+SRR32701808	Klebsiella pneumoniae	ST429				KL27	OL4	0	1	15	11	0	
+SRR32701809	Klebsiella pneumoniae	ST340				KL15	OL4	1	1	27	13	1	ybt
+SRR32701811	Klebsiella pneumoniae	ST12				KL157	OL2α.1	0	1	19	12	0	
+SRR32701812	Klebsiella pneumoniae	ST429				KL27	OL4	0	1	21	12	0	
+SRR33047823	Klebsiella pneumoniae	ST48				KL62	OL2α.1	1	2	17	11	1	ybt
+SRR33047824	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	24	12	1	ybt
+SRR33047835	Klebsiella pneumoniae	ST15				KL48	OL2α.1	3	2	29	12	1	iuc
+SRR33047836	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	2	27	14	1	ybt
+SRR33047837	Klebsiella pneumoniae	ST252				KL81	OL2α.2	0	2	16	11	0	
+SRR33047838	Klebsiella pneumoniae	ST661-1LV				KL13	OL3γ	0	2	30	10	0	
+SRR33047840	Klebsiella pneumoniae	ST395				KL2	OL2α.1	4	2	26	15	2	ybt+iuc
+SRR33047842	Klebsiella pneumoniae	ST20				KL28	OL2α.2	0	2	12	11	0	
+SRR33047856	Klebsiella pneumoniae	ST147				KL10	OL3α/β	0	2	27	9	0	
+SRR33047857	Klebsiella pneumoniae	ST307				KL102	OL2α.2	4	2	29	12	2	ybt+iuc
+SRR33047858	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	2	23	14	1	ybt
+SRR33047859	Klebsiella pneumoniae	ST11				KL148	OL2α.1	0	3	27	12	0	
+SRR33047860	Klebsiella pneumoniae	ST437				KL36	OL4	1	2	23	16	1	ybt
+SRR33047861	Klebsiella pneumoniae	ST395				KL2	OL2α.1	3	2	27	10	1	iuc
+SRR33047864	Klebsiella pneumoniae	ST395				KL2	OL2α.1	3	2	28	12	1	iuc
+SRR33047866	Klebsiella pneumoniae	ST525				KL45	OL2α.2	1	2	18	14	1	ybt
+SRR33047867	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	19	12	1	ybt
+SRR33047868	Klebsiella pneumoniae	ST423				KL38	OL3γ	0	2	20	10	0	
+SRR33047874	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	23	11	1	ybt
+SRR33816149	Klebsiella pneumoniae	ST37				KL15	OL4	0	0	5	11	0	
+SRR33816155	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	0	4	14	3	ybt+iuc+iro
+SRR33816156	Klebsiella pneumoniae	ST469				KL139	OL3γ	0	0	5	10	0	
+SRR33816169	Klebsiella pneumoniae	ST86				KL2	OL2α.1	3	0	4	16	2	iuc+iro
+SRR33816175	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	0	4	16	3	ybt+iuc+iro
+SRR33816176	Klebsiella pneumoniae	ST20				KL39	OL2α.1	0	0	4	12	0	
+SRR33816177	Klebsiella pneumoniae	ST20				KL28	OL2α.2	1	0	4	13	1	ybt
+SRR33816186	Klebsiella pneumoniae	ST202				KL124	OL13	0	0	5	9	0	
+SRR33816209	Klebsiella pneumoniae	ST950				KL7	OL2α.1	0	0	4	12	0	
+SRR33816218	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	1	11	13	1	ybt
+SRR33816221	Klebsiella pneumoniae	ST37				KL136	OL2α.2	0	0	4	12	0	
+SRR33816223	Klebsiella pneumoniae	ST321				KL3	OL2α.2	0	0	4	13	0	
+SRR33816261	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	0	6	10	0	
+SRR33816270	Klebsiella pneumoniae	ST34				KL111	OL3γ	0	0	4	10	0	
+SRR33816282	Klebsiella pneumoniae	ST86				KL2	OL2α.1	3	0	4	11	2	iuc+iro
+SRR33816287	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	22	12	0	
+SRR33816296	Klebsiella pneumoniae	ST29				KL54	OL2α.2	4	0	4	13	3	ybt+iuc+iro
+SRR33816303	Klebsiella pneumoniae	ST3056				KL30	OL2α.1	0	0	5	11	0	
+SRR33816307	Klebsiella pneumoniae	ST1824				KL16	OL2α.1	1	0	4	11	1	ybt
+SRR33816310	Klebsiella pneumoniae	ST300-1LV				KL54	OL2α.2	0	0	5	11	0	
+SRR33816318	Klebsiella pneumoniae	ST405				KL151	OL4	0	1	20	11	0	
+SRR33816334	Klebsiella pneumoniae	ST6959-1LV				KL169	OL15	0	0	2	10	0	
+SRR33816335	Klebsiella pneumoniae	ST6959-1LV				KL169	OL15	0	0	2	10	0	
+SRR33816338	Klebsiella pneumoniae	ST36				KL27	OL2α.2	0	1	20	12	0	
+SRR33816355	Klebsiella pneumoniae	ST33				KL13	OL3γ	0	0	4	11	0	
+SRR33816362	Klebsiella pneumoniae	ST542-1LV				KL8	OL2α.1	1	0	4	13	1	ybt
+SRR33816369	Klebsiella pneumoniae	ST3690				KL2	OL2α.1	3	0	4	13	2	iuc+iro
+SRR33816386	Klebsiella pneumoniae	ST405				KL151	OL4	1	1	17	13	1	ybt
+SRR33816387	Klebsiella pneumoniae	ST258				KL38	OL3γ	0	3	13	11	0	
+SRR33816395	Klebsiella pneumoniae	ST45				KL62	OL2α.1	1	0	15	11	1	ybt
+SRR33816398	Klebsiella pneumoniae	ST20				KL28	OL2α.2	0	0	2	12	0	
+SRR33816405	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	0	4	20	3	ybt+iuc+iro
+SRR33816410	Klebsiella pneumoniae	ST2459				KL15	OL4	0	0	5	12	0	
+SRR33816423	Klebsiella pneumoniae	ST3329				KL12	OL2α.1	0	0	6	13	0	
+SRR33816440	Klebsiella pneumoniae	ST219				KL121	OL2α.1	0	0	4	12	0	
+SRR33816445	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	0	4	18	3	ybt+iuc+iro
+SRR33816462	Klebsiella pneumoniae	ST37				KL38	OL3γ	0	0	9	10	0	
+SRR33816464	Klebsiella pneumoniae	ST1128				KL10	OL3α/β	0	0	11	10	0	
+SRR33816482	Klebsiella pneumoniae	ST792				KL25	OL3α/β	2	0	4	14	1	ybt
+SRR33816493	Klebsiella pneumoniae	ST1037				KL27	OL2α.2	0	0	6	10	0	
+SRR33816500	Klebsiella pneumoniae	ST34				KL25	OL2α.2	0	1	22	12	0	
+SRR33816501	Klebsiella pneumoniae	ST785				KL103	OL2α.1	0	0	4	12	0	
+SRR33816504	Klebsiella pneumoniae	ST299				KL7	OL2α.1	0	0	2	10	0	
+SRR33816523	Klebsiella pneumoniae	ST1447-1LV				KL115	OL3γ	0	0	6	10	0	
+SRR33816552	Klebsiella pneumoniae	ST661				KL140	OL2α.2	0	1	16	12	0	
+SRR33816560	Klebsiella pneumoniae	ST34				KL25	OL2α.2	0	1	21	14	0	
+SRR33816561	Klebsiella pneumoniae	ST307-1LV				KL102	OL2α.2	1	1	18	14	1	ybt
+SRR33816564	Klebsiella pneumoniae	ST380				KL2	OL2α.1	5	0	4	17	3	ybt+iuc+iro
+SRR33816572	Klebsiella pneumoniae	ST405				KL151	OL4	1	1	13	13	1	ybt
+SRR33816582	Klebsiella pneumoniae	ST661				KL140	OL2α.2	0	0	4	13	0	
+SRR33816588	Klebsiella pneumoniae	ST661				KL140	OL2α.2	0	0	4	11	0	
+SRR33816592	Klebsiella pneumoniae	ST321				KL3	OL2α.2	0	0	4	12	0	
+SRR33816598	Klebsiella pneumoniae	ST940				KL48	OL10	0	0	4	10	0	
+SRR33816605	Klebsiella pneumoniae	ST189				KL128	OL3γ	0	0	6	10	0	
+SRR33816644	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	0	4	20	3	ybt+iuc+iro
+SRR33816650	Klebsiella pneumoniae	ST2726				KL5	OL2α.1	0	0	4	13	0	
+SRR33816651	Klebsiella pneumoniae	ST1015				KL25	OL3γ	0	0	5	10	0	
+SRR33816677	Klebsiella pneumoniae	ST1876				KL22	OL2α.2	0	0	7	10	0	
+SRR33816685	Klebsiella pneumoniae	ST1876				KL22	OL2α.2	0	0	7	12	0	
+SRR33816702	Klebsiella pneumoniae	ST2447				KL35	OL3α/β	1	0	5	13	1	ybt
+SRR33816708	Klebsiella pneumoniae	ST628				KL123	OL3γ	0	1	17	12	0	
+SRR33816729	Klebsiella pneumoniae	ST45				KL127	OL13	1	0	5	12	1	ybt
+SRR33816738	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	15	13	1	ybt
+SRR33816744	Klebsiella pneumoniae	ST65				KL2	OL2α.2	5	0	7	10	3	ybt+iuc+iro
+SRR33816748	Klebsiella pneumoniae	ST6401				KL15	OL4	0	0	4	10	0	
+SRR33816750	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	0	5	16	3	ybt+iuc+iro
+SRR33816760	Klebsiella pneumoniae	ST189				KL128	OL3γ	0	0	12	11	0	
+SRR33816761	Klebsiella pneumoniae	ST86				KL2	OL2α.1	4	0	4	15	3	ybt+iuc+iro
+SRR33816762	Klebsiella pneumoniae	ST189				KL128	OL3γ	0	0	12	10	0	
+SRR33816768	Klebsiella pneumoniae	ST76				KL14	OL5	0	0	4	11	0	
+SRR33816774	Klebsiella pneumoniae	ST37				KL15	OL4	1	1	16	13	1	ybt
+SRR33816804	Klebsiella pneumoniae	ST966-1LV				KL102	OL2α.1	0	0	4	12	0	
+SRR33816811	Klebsiella pneumoniae	ST15				KL10	OL3α/β	1	0	8	11	1	ybt
+SRR33816823	Klebsiella pneumoniae	ST41				KL142	OL4	1	0	4	14	1	ybt
+SRR33816836	Klebsiella pneumoniae	ST1229				KL125	OL5	0	0	4	15	0	
+SRR33816845	Klebsiella pneumoniae	ST502				KL15	OL4	1	0	2	13	1	ybt
+SRR33816857	Klebsiella pneumoniae	ST436				KL112	OL2α.2	0	1	15	12	0	
+SRR33816859	Klebsiella pneumoniae	ST86				KL2	OL2α.1	3	0	4	12	2	iuc+iro
+SRR33816879	Klebsiella pneumoniae	ST628				KL123	OL3γ	0	0	6	11	0	
+SRR33816891	Klebsiella pneumoniae	ST469				KL139	OL3γ	0	0	4	10	0	
+SRR33816918	Klebsiella pneumoniae	ST20				KL39	OL2α.1	0	0	4	11	0	
+SRR33816926	Klebsiella pneumoniae	ST1496				KL62	OL2α.1	1	0	4	15	1	ybt
+SRR33816930	Klebsiella pneumoniae	ST323				KL21	OL3γ	1	1	16	13	1	ybt
+SRR33816943	Klebsiella pneumoniae	ST17				KL62	OL2α.2	0	0	4	11	0	
+SRR33816953	Klebsiella pneumoniae	ST3031				KL24	OL2α.1	1	0	4	14	1	ybt
+SRR33816954	Klebsiella pneumoniae	ST6959-1LV				KL169	OL15	0	0	2	10	0	
+SRR33816959	Klebsiella pneumoniae	ST3157				KL30	OL2α.2	0	0	5	11	0	
+SRR33816964	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	0	4	15	3	ybt+iuc+iro
+SRR33816970	Klebsiella pneumoniae	ST34				KL25	OL2α.2	0	1	21	12	0	
+SRR33816982	Klebsiella pneumoniae	ST380				KL2	OL2α.1	4	0	4	12	3	ybt+iuc+iro
+SRR33816983	Klebsiella pneumoniae	ST792				KL25	OL3α/β	2	1	6	14	1	ybt
+SRR33816985	Klebsiella pneumoniae	ST1691				KL17	OL2α.1	0	0	4	11	0	
+SRR33816995	Klebsiella pneumoniae	ST17				KL62	OL2α.2	0	0	4	11	0	
+SRR33816998	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	15	13	1	ybt
+SRR33817002	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	15	13	1	ybt
+SRR33817011	Klebsiella pneumoniae	ST134				KL25	OL5	0	0	5	10	0	
+SRR33817012	Klebsiella pneumoniae	ST20-1LV				KL64	OL2α.1	0	0	4	10	0	
+SRR33817043	Klebsiella pneumoniae	ST2601				KL17	OL4	0	0	7	11	0	
+SRR33817047	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	0	6	12	0	
+SRR33817062	Klebsiella pneumoniae	ST1823				KL113	OL2α.2	0	0	4	11	0	
+SRR33817066	Klebsiella pneumoniae	ST966-1LV				KL102	OL2α.1	0	0	4	12	0	
+SRR33817067	Klebsiella pneumoniae	ST17				KL25	OL5	0	0	4	10	0	
+SRR33817089	Klebsiella pneumoniae	ST110				KL2	OL2α.2	0	0	5	12	0	
+SRR33817090	Klebsiella pneumoniae	ST2440				KL116	OL2α.1	0	0	4	12	0	
+SRR35795398	Klebsiella pneumoniae	ST147				KL64	OL2α.1	0	1	21	11	0	
+SRR35795399	Klebsiella pneumoniae	ST147				KL10	OL3α/β	1	1	25	13	1	ybt
+SRR35795400	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	23	13	1	ybt
+SRR35795401	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	15	12	1	ybt
+SRR35795403	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	11	1	ybt
+SRR35795404	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	11	1	ybt
+SRR35795405	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	11	1	ybt
+SRR35795406	Klebsiella pneumoniae	ST231				KL51	OL2α.2	4	2	21	15	2	ybt+iuc
+SRR35795407	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	15	11	1	ybt
+SRR35795408	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	17	11	1	ybt
+SRR35795506	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	15	19	1	ybt
+SRR35795507	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	26	29	0	
+SRR35795508	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	15	39	1	ybt
+SRR35795509	Klebsiella pneumoniae	ST258				KL107	OL2α.1	1	2	27	40	1	ybt
+SRR35795510	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	2	8	15	1	ybt
+SRR35795511	Klebsiella pneumoniae	ST258				KL107	OL13	1	2	27	13	1	ybt
+SRR35795512	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	3	11	1	ybt
+SRR35795513	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	25	19	0	
+SRR35795514	Klebsiella pneumoniae	ST258				KL107	OL2α.1	1	2	27	13	1	ybt
+SRR35795516	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	3	30	20	1	ybt
+SRR35795517	Klebsiella pneumoniae	ST437				KL36	OL4	0	2	31	12	0	
+SRR35795518	Klebsiella pneumoniae	ST437				KL36	OL4	0	2	31	13	0	
+SRR35795519	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	14	15	1	ybt
+SRR35795520	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	15	11	1	ybt
+SRR35795521	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	2	23	15	1	ybt
+SRR35795522	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	25	13	0	
+SRR35795523	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	15	11	1	ybt
+SRR35795524	Klebsiella pneumoniae	ST16				KL51	OL3γ	0	0	10	9	0	
+SRR35795525	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	15	15	1	ybt
+SRR35795527	Klebsiella pneumoniae	ST11				KL105	OL2α.2	1	3	28	13	1	ybt
+SRR35795528	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	13	11	1	ybt
+SRR35795529	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	3	24	20	1	ybt
+SRR35795530	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	14	1	ybt
+SRR35795531	Klebsiella pneumoniae	ST258				KL107	OL2α.2	1	2	26	14	1	ybt
+SRR35795532	Klebsiella pneumoniae	ST258				KL107	OL2α.2	1	2	27	19	1	ybt
+SRR35795533	Klebsiella pneumoniae	ST101				KL17	OL2α.2	1	2	31	15	1	ybt
+SRR35795534	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	3	15	18	1	ybt
+SRR35795535	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	14	1	ybt
+SRR35795537	Klebsiella pneumoniae	ST16				KL51	OL3γ	2	3	19	19	1	ybt
+SRR35795539	Klebsiella pneumoniae	ST258				KL107	OL2α.2	1	2	23	13	1	ybt
+SRR35795540	Klebsiella pneumoniae	ST855				KL10	OL3α/β	0	3	20	10	0	
+SRR35795542	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	21	13	1	ybt
+SRR35795543	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	14	1	ybt
+SRR35795544	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	14	1	ybt
+SRR35795545	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	16	14	1	ybt
+SRR35795546	Klebsiella pneumoniae	ST340				KL15	OL4	1	2	21	16	1	ybt
+SRR35795550	Klebsiella pneumoniae	ST70-1LV				KL171	OL2α.2	0	0	4	11	0	
+SRR35795629	Klebsiella pneumoniae	ST11-1LV				KL126	OL13	0	2	21	12	0	
+SRR35795630	Klebsiella pneumoniae	ST2096				KL64	OL2α.1	0	3	13	11	0	
+SRR35795631	Klebsiella pneumoniae	ST2876-3LV				KL18	OL4	0	0	4	14	0	
+SRR35795634	Klebsiella pneumoniae	ST6544				KL155	OL13	0	1	15	11	0	
+SRR35795635	Klebsiella pneumoniae	ST147				KL48	OL2α.1	1	0	19	13	1	ybt
+SRR35795636	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	2	34	15	1	ybt
+SRR35795637	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	1	20	12	1	ybt
+SRR35795638	Klebsiella pneumoniae	ST437				KL145	OL10	0	1	14	11	0	
+SRR35795639	Klebsiella pneumoniae	ST11				KL15	OL4	0	2	21	11	0	
+SRR35795640	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	1	17	34	1	ybt
+SRR35795641	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	26	20	0	
+SRR35795642	Klebsiella pneumoniae	ST273				KL74	OL15	1	2	19	12	1	ybt
+SRR35795643	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	26	22	0	
+SRR35795645	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	27	25	0	
+SRR35795646	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	3	25	27	0	
+SRR35795647	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	26	18	0	
+SRR35795648	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	26	16	0	
+SRR35795650	Klebsiella pneumoniae	ST258				KL107	OL2α.2	1	2	30	33	1	ybt
+SRR35795651	Klebsiella pneumoniae	ST685-1LV				KL13	OL3γ	0	2	25	13	0	
+SRR35795652	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	22	12	1	ybt
+SRR35795653	Klebsiella pneumoniae	ST11				KL105	OL2α.2	1	1	21	15	1	ybt
+SRR35795654	Klebsiella pneumoniae	ST11				KL15	OL4	4	2	13	13	2	ybt+iuc
+SRR35795655	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	17	12	1	ybt
+SRR35795656	Klebsiella pneumoniae	ST258				KL106	OL2α.2	1	3	17	15	1	ybt
+SRR35795657	Klebsiella pneumoniae	ST433				KL102	OL2α.2	0	0	8	10	0	
+SRR35795658	Klebsiella pneumoniae	ST395				KL2	OL2α.1	1	2	18	15	1	ybt
+SRR35795659	Klebsiella pneumoniae	ST2096				KL64	OL2α.1	3	1	25	12	1	iuc
+SRR35795661	Klebsiella pneumoniae	ST15				KL19	OL2α.2	1	0	25	13	1	ybt
+SRR35795662	Klebsiella pneumoniae	ST11				KL15	OL4	0	2	20	22	0	
+SRR35795663	Klebsiella pneumoniae	ST1079				KL10	OL2α.2	0	0	6	12	0	
+SRR35795725	Klebsiella pneumoniae	ST383				KL30	OL2α.2	4	2	32	15	2	ybt+iuc
+SRR35795726	Klebsiella pneumoniae	ST6118				KL30	OL2α.2	4	2	31	15	2	ybt+iuc
+SRR35795727	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	1	14	14	1	ybt
+SRR35795728	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	26	15	1	ybt
+SRR35795729	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	27	12	2	ybt+iuc
+SRR35795731	Klebsiella pneumoniae	ST17				KL25	OL5	1	2	23	11	1	ybt
+SRR35795732	Klebsiella pneumoniae	ST11				KL28	OL2α.1	2	2	29	14	1	ybt
+SRR35795733	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	3	32	11	2	ybt+iuc
+SRR35795734	Klebsiella pneumoniae	ST383				KL30	OL2α.2	3	2	21	36	1	iuc
+SRR35795735	Klebsiella pneumoniae	ST11				KL28	OL2α.1	2	2	29	14	1	ybt
+SRR35795736	Klebsiella pneumoniae	ST437				KL36	OL4	4	2	19	18	2	ybt+iuc
+SRR35795737	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	22	10	1	ybt
+SRR35795738	Klebsiella pneumoniae	ST6118				KL30	OL2α.2	4	2	31	14	2	ybt+iuc
+SRR35795739	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	31	12	2	ybt+iuc
+SRR35795740	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	1	18	14	1	ybt
+SRR35795742	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	3	32	10	2	ybt+iuc
+SRR35795743	Klebsiella pneumoniae	ST111				KL63	OL2α.2	1	2	23	13	1	ybt
+SRR35795744	Klebsiella pneumoniae	ST6118				KL30	OL2α.2	1	2	15	13	1	ybt
+SRR35795745	Klebsiella pneumoniae	ST383				KL30	OL2α.2	1	2	24	13	1	ybt
+SRR35795746	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	27	15	1	ybt
+SRR35795747	Klebsiella pneumoniae	ST147				KL64	OL2α.1	4	2	35	14	2	ybt+iuc
+SRR35795748	Klebsiella pneumoniae	ST45				KL5	OL3γ	1	0	4	12	2	ybt+iro
+SRR35795754	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	13	1	ybt
+SRR35795755	Klebsiella pneumoniae	ST231				KL51	OL2α.2	4	3	23	14	2	ybt+iuc
+SRR35795756	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	11	1	ybt
+SRR35795757	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	12	1	ybt
+SRR35795758	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	14	1	ybt
+SRR35795759	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	11	1	ybt
+SRR35795760	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	12	1	ybt
+SRR35795761	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	22	15	1	ybt
+SRR35795762	Klebsiella pneumoniae	ST881				KL2	OL2α.2	0	2	16	13	0	
+SRR35795763	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	11	1	ybt
+SRR35795765	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	20	1	ybt
+SRR35795766	Klebsiella pneumoniae	ST147				KL10	OL3α/β	1	0	19	19	1	ybt
+SRR35795767	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	20	13	1	ybt
+SRR35795768	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	12	1	ybt
+SRR35795769	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	20	13	1	ybt
+SRR35795770	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	12	1	ybt
+SRR35795771	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	13	1	ybt
+SRR35795772	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	11	1	ybt
+SRR35795797	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	25	13	0	
+SRR35795798	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	15	13	1	ybt
+SRR35795799	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	27	20	1	ybt
+SRR35795800	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	25	15	0	
+SRR35795801	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	22	13	1	ybt
+SRR35795805	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	15	11	1	ybt
+SRR35795806	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	15	11	1	ybt
+SRR35795807	Klebsiella pneumoniae	ST11				KL105	OL2α.2	1	3	15	11	1	ybt
+SRR35795808	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	32	14	1	ybt
+SRR35795809	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	19	13	1	ybt
+SRR35795810	Klebsiella pneumoniae	ST258				KL107	OL2α.2	1	2	27	14	1	ybt
+SRR35795811	Klebsiella pneumoniae	ST258				KL107	OL2α.2	1	2	27	14	1	ybt
+SRR35795812	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	3	15	22	1	ybt
+SRR35795813	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	19	16	1	ybt
+SRR35795817	Klebsiella pneumoniae	ST258				KL107	OL2α.2	1	2	23	13	1	ybt
+SRR35795818	Klebsiella pneumoniae	ST258				KL107	OL2α.2	1	2	23	16	1	ybt
+SRR35795819	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	3	17	19	1	ybt
+SRR35795820	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	24	33	1	ybt
+SRR35795857	Klebsiella pneumoniae	ST29				KL30	OL2α.2	0	1	11	9	0	
+SRR35795858	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	23	13	1	ybt
+SRR35795859	Klebsiella pneumoniae	ST530				KL143	OL2α.2	0	1	13	12	0	
+SRR35795860	Klebsiella pneumoniae	ST39				KL2	OL2α.1	1	1	16	14	1	ybt
+SRR35795861	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	1	21	11	1	ybt
+SRR35795862	Klebsiella pneumoniae	ST290				KL21	OL2α.1	1	1	16	13	1	ybt
+SRR35795863	Klebsiella pneumoniae	ST15				KL48	OL2α.1	1	1	20	11	1	ybt
+SRR35795864	Klebsiella pneumoniae	ST15				KL48	OL2α.1	1	1	20	11	1	ybt
+SRR35795865	Klebsiella pneumoniae	ST252				KL51	OL2α.2	0	1	19	11	0	
+SRR35795866	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	18	13	1	ybt
+SRR35795868	Klebsiella pneumoniae	ST36-2LV				KL24	OL2α.1	0	1	19	12	0	
+SRR35795893	Klebsiella pneumoniae	ST290				KL21	OL2α.1	1	1	16	13	1	ybt
+SRR35795894	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	2	20	15	1	ybt
+SRR35795895	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	1	17	12	0	
+SRR35795896	Klebsiella pneumoniae	ST39				KL2	OL2α.1	1	1	16	14	1	ybt
+SRR35795897	Klebsiella pneumoniae	ST4083				KL35	OL2α.2	0	1	16	9	0	
+SRR35795898	Klebsiella pneumoniae	ST4672				KL110	OL2α.1	0	0	23	11	0	
+SRR35795899	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	2	19	11	1	ybt
+SRR35795900	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	1	17	12	1	ybt
+SRR35795901	Klebsiella pneumoniae	ST11				KL15	OL4	1	1	17	20	1	ybt
+SRR35795903	Klebsiella pneumoniae	ST607				KL25	OL2α.1	1	1	18	28	1	ybt
+SRR35795904	Klebsiella pneumoniae	ST607				KL25	OL2α.1	1	1	18	11	1	ybt
+SRR35795905	Klebsiella pneumoniae	ST17				KL23	OL2α.2	0	1	10	10	0	
+SRR35795906	Klebsiella pneumoniae	ST337				KL174	OL2α.2	0	1	21	31	0	
+SRR35795907	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	1	19	12	1	ybt
+SRR35795908	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	1	17	12	1	ybt
+SRR35795909	Klebsiella pneumoniae	ST340				KL55	OL3γ	0	1	14	10	0	
+SRR35795910	Klebsiella pneumoniae	ST607				KL25	OL2α.1	1	1	18	11	1	ybt
+SRR35795911	Klebsiella pneumoniae	ST4083				KL35	OL2α.2	0	1	16	9	0	
+SRR35795912	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	2	19	11	1	ybt
+SRR35795914	Klebsiella pneumoniae	ST607				KL25	OL2α.1	1	1	18	12	1	ybt
+SRR35795915	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	1	17	14	1	ybt
+SRR35795916	Klebsiella pneumoniae	ST29				KL19	OL2α.2	1	1	15	14	1	ybt
+SRR35795917	Klebsiella pneumoniae	ST685				KL27	OL4	0	1	14	12	0	
+SRR35795918	Klebsiella pneumoniae	ST29				KL19	OL2α.2	1	1	12	14	1	ybt
+SRR35795919	Klebsiella pneumoniae	ST252				KL51	OL2α.2	0	1	22	43	0	
+SRR35795920	Klebsiella pneumoniae	ST307				KL102	OL2α.2	1	2	27	46	1	ybt
+SRR35795921	Klebsiella pneumoniae	ST252				KL51	OL2α.2	0	1	21	39	0	
+SRR35795922	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	1	18	10	1	ybt
+SRR35795923	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	23	13	1	ybt
+SRR35795925	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	1	19	12	1	ybt
+SRR35795926	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	1	21	13	1	ybt
+SRR35795927	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	25	12	1	ybt
+SRR35795928	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	2	27	13	1	ybt
+SRR35795929	Klebsiella pneumoniae	ST37				KL15	OL4	0	1	20	11	0	
+SRR35795930	Klebsiella pneumoniae	ST11				KL105	OL2α.2	1	3	24	12	1	ybt
+SRR35795931	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	2	29	10	1	ybt
+SRR35795932	Klebsiella pneumoniae	ST147				KL64	OL2α.1	1	3	27	14	1	ybt
+SRR35795933	Klebsiella pneumoniae	ST15				KL24	OL2α.1	1	0	15	10	1	ybt
+SRR35795934	Klebsiella pneumoniae	ST383				KL30	OL2α.2	0	2	21	12	0	
+SRR35795936	Klebsiella pneumoniae	ST11				KL47	OL13	4	2	23	16	2	ybt+iuc
+SRR35795937	Klebsiella pneumoniae	ST383				KL30	OL2α.2	0	2	17	12	0	
+SRR35795938	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	3	25	11	1	ybt
+SRR35795939	Klebsiella pneumoniae	ST383				KL30	OL2α.2	0	2	17	12	0	
+SRR35795940	Klebsiella pneumoniae	ST383				KL30	OL2α.2	0	2	20	12	0	
+SRR35795965	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	20	13	1	ybt
+SRR35795966	Klebsiella pneumoniae	ST15				KL112	OL2α.1	0	3	23	14	0	
+SRR35795968	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	23	11	1	ybt
+SRR35795969	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	23	11	1	ybt
+SRR35795970	Klebsiella pneumoniae	ST1				KL183	OL13	0	2	30	13	0	
+SRR35795971	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	22	13	1	ybt
+SRR35795972	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	22	13	1	ybt
+SRR35795973	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	24	10	1	ybt
+SRR35795974	Klebsiella pneumoniae	ST16				KL64	OL2α.1	1	2	16	13	1	ybt
+SRR35795975	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	25	13	1	ybt
+SRR35795976	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	22	12	1	ybt
+SRR35795977	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	22	14	1	ybt
+SRR35795979	Klebsiella pneumoniae	ST16				KL130	OL3γ	1	3	22	10	1	ybt
+SRR35795980	Klebsiella pneumoniae	ST7127				KL64	OL2α.1	0	2	23	12	0	
+SRR35795981	Klebsiella pneumoniae	ST11				KL15	OL4	1	3	20	13	1	ybt
+SRR35795982	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	1	23	12	1	ybt
+SRR35795983	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	23	12	1	ybt
+SRR35795984	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	25	13	1	ybt
+SRR35795985	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	23	12	1	ybt
+SRR35795986	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	23	12	1	ybt
+SRR35795987	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	23	11	1	ybt
+SRR35795988	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	24	12	1	ybt
+SRR35795990	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	22	12	1	ybt
+SRR35795991	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	3	14	12	1	ybt
+SRR35795992	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	23	12	1	ybt
+SRR35795993	Klebsiella pneumoniae	ST656				KL177	OL13	1	2	17	15	1	ybt
+SRR35795994	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	20	11	1	ybt
+SRR35795995	Klebsiella pneumoniae	ST1				KL183	OL13	0	2	30	11	0	
+SRR35795996	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	21	13	1	ybt
+SRR35795997	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	23	12	1	ybt
+SRR35795998	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	22	11	1	ybt
+SRR35795999	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	25	13	1	ybt
+SRR35796001	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	30	14	1	ybt
+SRR35796002	Klebsiella pneumoniae	ST789				KL18	OL2α.1	1	2	25	14	1	ybt
+SRR35796003	Klebsiella pneumoniae	ST7127				KL64	OL2α.1	0	2	23	12	0	
+SRR35796004	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	3	23	12	1	ybt
+SRR35796005	Klebsiella pneumoniae	ST11				KL15	OL4	1	1	23	13	1	ybt
+SRR35796006	Klebsiella pneumoniae	ST656				KL177	OL13	1	2	23	14	1	ybt
+SRR35796007	Klebsiella pneumoniae	ST901-2LV				KL3	OL2α.2	0	0	4	10	0	
+SRR35796008	Klebsiella pneumoniae	ST273				KL15	OL4	0	1	18	13	0	
+SRR35796009	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	3	26	13	0	
+SRR35796010	Klebsiella pneumoniae	ST54				KL14	OL3γ	1	2	17	33	1	ybt
+SRR35796012	Klebsiella pneumoniae	ST11				KL64	OL2α.1	2	3	19	20	1	ybt
+SRR35796013	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	17	14	1	ybt
+SRR35796014	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	12	1	ybt
+SRR35796016	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	14	1	ybt
+SRR35796017	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	17	13	1	ybt
+SRR35796018	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	14	1	ybt
+SRR35796019	Klebsiella pneumoniae	ST231				KL51	OL2α.2	4	3	22	15	2	ybt+iuc
+SRR35796020	Klebsiella pneumoniae	ST147				KL10	OL3α/β	1	1	18	14	1	ybt
+SRR35796021	Klebsiella pneumoniae	ST416				KL30	OL2α.2	0	1	14	11	0	
+SRR3618629	Klebsiella pneumoniae	ST1017				KL58	OL3γ	0	1	12	13	0	
+SRR3981084	Klebsiella pneumoniae	ST163				KL28	OL2α.2	0	0	5	14	0	
+SRR3981086	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	9	12	0	
+SRR3981087	Klebsiella pneumoniae	ST1213				KL103	OL2α.1	0	2	16	13	0	
+SRR3982097	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	24	13	0	
+SRR3982098	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	13	0	
+SRR3982100	Klebsiella pneumoniae	ST37				KL12	OL10	0	0	8	12	0	
+SRR3982229	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	15	0	
+SRR3982230	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	17	17	0	
+SRR3982253	Klebsiella pneumoniae	ST512				KL107	OL2α.2	0	3	19	14	0	
+SRR3982316	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	17	0	
+SRR3982346	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	8	19	0	
+SRR3982400	Klebsiella pneumoniae	ST11				KL105	OL2α.2	1	1	18	17	1	ybt
+SRR3987112	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	3	24	16	0	
+SRR3987115	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	2	23	14	1	ybt
+SRR3987118	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	13	0	
+SRR3987119	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	12	0	
+SRR3987120	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	16	14	0	
+SRR3987121	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	15	0	
+SRR3987122	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	14	13	0	
+SRR3987123	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	12	0	
+SRR3987124	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	16	12	0	
+SRR3987125	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	1	16	13	0	
+SRR3987126	Klebsiella pneumoniae	ST15				KL24	OL2α.1	0	2	25	14	0	
+SRR3987127	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	12	0	
+SRR3987128	Klebsiella pneumoniae	ST147				KL149	OL4	0	1	25	14	0	
+SRR3987129	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	12	0	
+SRR3987135	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	22	12	0	
+SRR3996236	Klebsiella pneumoniae	ST258				KL63	OL2α.2	0	2	22	13	0	
+SRR3996238	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	15	15	0	
+SRR3996239	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	2	13	24	1	ybt
+SRR3996240	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	2	17	19	1	ybt
+SRR3996241	Klebsiella pneumoniae	ST15				KL112	OL2α.1	0	2	20	15	0	
+SRR3996242	Klebsiella pneumoniae	ST340				KL55	OL3γ	0	2	21	12	0	
+SRR3996245	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	2	22	14	1	ybt
+SRR3996246	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	12	18	0	
+SRR3996248	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	9	15	0	
+SRR3996250	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	14	0	
+SRR3996251	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	8	14	0	
+SRR3996252	Klebsiella pneumoniae	ST1213				KL103	OL2α.1	0	3	17	14	0	
+SRR3996253	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	14	11	0	
+SRR3996254	Klebsiella pneumoniae	ST418				KL107	OL2α.2	0	2	19	13	0	
+SRR3996255	Klebsiella pneumoniae	ST273				KL74	OL15	3	1	18	14	1	iuc
+SRR3996258	Klebsiella pneumoniae	ST580				KL64	OL2α.1	0	1	10	20	0	
+SRR3996260	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	11	11	0	
+SRR3996261	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	19	15	0	
+SRR3996262	Klebsiella pneumoniae	ST16				KL149	OL4	0	0	9	13	0	
+SRR4017811	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	3	23	12	0	
+SRR4017813	Klebsiella pneumoniae	ST6632				KL105	OL2α.2	1	1	21	16	1	ybt
+SRR4017825	Klebsiella pneumoniae	ST1626				KL151	OL5	0	1	17	10	0	
+SRR4017826	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	2	26	11	0	
+SRR4017827	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	13	0	
+SRR4017828	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	12	11	0	
+SRR4017829	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	12	0	
+SRR4017830	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	2	17	14	1	ybt
+SRR4017831	Klebsiella pneumoniae	ST258-1LV				KL106	OL2α.2	0	2	15	12	0	
+SRR4017833	Klebsiella variicola subsp. variicola	ST1737				KL56	OL10	0	2	13	10	0	
+SRR4017834	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	21	12	0	
+SRR4017835	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	22	14	0	
+SRR4017836	Klebsiella pneumoniae	ST418				KL107	OL2α.2	0	2	17	13	0	
+SRR4017837	Klebsiella pneumoniae	ST485				KL22	OL3γ	0	2	8	9	0	
+SRR4017840	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	22	20	0	
+SRR4017841	Klebsiella pneumoniae	ST15				KL24	OL2α.1	0	1	24	11	0	
+SRR4017842	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	17	12	0	
+SRR4017843	Klebsiella pneumoniae	ST11				KL125	OL3γ	0	2	19	10	0	
+SRR4017844	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	13	0	
+SRR4017846	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	1	16	13	0	
+SRR4017847	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	14	0	
+SRR4017848	Klebsiella pneumoniae	ST258				KL106	OL12	0	2	15	11	0	
+SRR4017849	Klebsiella quasipneumoniae subsp. similipneumoniae	ST3216-3LV				KL30	OL3α/β	0	2	13	9	0	
+SRR4017850	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	8	11	0	
+SRR4017851	Klebsiella pneumoniae	ST258				KL106	OL12	0	2	14	11	0	
+SRR4017852	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	12	0	
+SRR4017854	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	1	15	15	1	ybt
+SRR4017856	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	20	12	0	
+SRR4017885	Klebsiella pneumoniae	ST258-1LV				KL106	OL2α.2	0	2	15	12	0	
+SRR4017887	Klebsiella quasipneumoniae subsp. similipneumoniae	ST2133				KL48	OL5	0	0	7	9	0	
+SRR4017890	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	16	12	0	
+SRR4017892	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	13	12	0	
+SRR4017893	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	12	0	
+SRR4017894	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	13	12	0	
+SRR4017895	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	14	12	0	
+SRR4017897	Klebsiella pneumoniae	ST1966				KL58	OL3γ	1	0	10	14	1	ybt
+SRR4017898	Klebsiella pneumoniae	ST258				KL106	OL2α.2	2	2	23	14	1	ybt
+SRR4017902	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	16	12	0	
+SRR4017906	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	23	12	0	
+SRR4017915	Klebsiella pneumoniae	ST34				KL57	OL2α.2	0	2	15	13	0	
+SRR4017916	Klebsiella pneumoniae	ST258-1LV				KL106	OL2α.2	0	2	17	12	0	
+SRR4017918	Klebsiella pneumoniae	ST340				KL55	OL3γ	0	3	21	12	0	
+SRR4017919	Klebsiella pneumoniae	ST340				KL55	OL3γ	0	3	13	11	0	
+SRR4017920	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	0	13	15	1	ybt
+SRR4017921	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	23	15	0	
+SRR4017922	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	2	17	12	0	
+SRR4017923	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	0	15	18	0	
+SRR4017924	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	22	11	0	
+SRR4017925	Klebsiella variicola subsp. variicola	ST1178				KL31	OL3α/β	2	2	7	11	1	ybt
+SRR4017927	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	22	12	0	
+SRR4017928	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	12	0	
+SRR4017929	Klebsiella variicola subsp. variicola	ST1050-2LV				KL180	OL10	0	2	19	11	0	
+SRR4019406	Klebsiella pneumoniae	ST873				KL52	OL13	0	1	7	12	0	
+SRR4035114	Klebsiella pneumoniae	ST3635				KL132	OL2α.1	0	0	6	10	0	
+SRR4035115	Klebsiella pneumoniae	ST340				KL55	OL3γ	0	3	13	15	0	
+SRR4035116	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	13	0	
+SRR4035118	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	3	15	13	0	
+SRR4035123	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	16	12	0	
+SRR4035124	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	15	14	0	
+SRR4035125	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	12	12	0	
+SRR4035126	Klebsiella pneumoniae	ST258				KL106	OL12	0	2	14	11	0	
+SRR4065637	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	24	13	0	
+SRR4065638	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	2	15	14	1	ybt
+SRR4065639	Klebsiella pneumoniae	ST340				KL55	OL3γ	0	3	20	14	0	
+SRR4065640	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	2	20	15	1	ybt
+SRR4065641	Klebsiella pneumoniae	ST252				KL81	OL2α.2	0	2	10	13	0	
+SRR4065646	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	21	16	0	
+SRR4065647	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	23	19	0	
+SRR4065652	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	16	12	0	
+SRR4065653	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	8	12	0	
+SRR4065663	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	9	12	0	
+SRR4065664	Klebsiella pneumoniae	ST309				KL42	OL4	0	0	4	14	0	
+SRR4065668	Klebsiella pneumoniae	ST147				KL64	OL2α.1	0	2	16	15	0	
+SRR4065678	Klebsiella pneumoniae	ST16				KL51	OL3γ	0	2	19	10	0	
+SRR4065679	Klebsiella pneumoniae	ST834				KL123	OL3γ	0	3	15	10	0	
+SRR4065680	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	23	12	0	
+SRR4065689	Klebsiella pneumoniae	ST37-1LV				KL15	OL4	0	2	10	13	0	
+SRR4065698	Klebsiella pneumoniae	ST16				KL51	OL3γ	0	2	18	10	0	
+SRR4065699	Klebsiella pneumoniae	ST258				KL107	OL2α.2	2	2	19	17	1	ybt
+SRR4065700	Klebsiella pneumoniae	ST340				KL55	OL3γ	0	2	24	9	0	
+SRR4065702	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	23	13	0	
+SRR4245474	Klebsiella pneumoniae	ST38				KL52	OL13	0	1	14	10	0	
+SRR4245476	Klebsiella pneumoniae	ST983				KL127	OL13	0	1	14	11	0	
+SRR4245485	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	18	11	0	
+SRR4294843	Klebsiella pneumoniae	ST38				KL52	OL13	0	1	14	10	0	
+SRR4294848	Klebsiella pneumoniae	ST17				KL25	OL5	1	1	10	14	1	ybt
+SRR5120227	Klebsiella pneumoniae	ST37				KL14	OL3γ	1	1	12	14	1	ybt
+SRR5120229	Klebsiella pneumoniae	ST5380				KL108	OL2α.2	0	0	18	13	0	
+SRR5132378	Klebsiella pneumoniae	ST11				KL103	OL2α.1	0	2	31	15	0	
+SRR5132379	Klebsiella pneumoniae	ST15				KL112	OL2α.1	1	3	17	13	1	ybt
+SRR5132381	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	3	23	12	0	
+SRR5132447	Klebsiella pneumoniae	ST14				KL2	OL2α.1	1	2	20	11	1	ybt
+SRR5132448	Klebsiella pneumoniae	ST11				KL15	OL4	1	2	24	14	1	ybt
+SRR5132449	Klebsiella pneumoniae	ST11				KL24	OL2α.1	1	2	13	11	1	ybt
+SRR5132450	Klebsiella pneumoniae	ST14				KL2	OL2α.1	0	2	29	11	0	
+SRR5132452	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	22	13	1	ybt
+SRR5132453	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	22	12	1	ybt
+SRR5237403	Klebsiella pneumoniae	ST323				KL21	OL3γ	0	1	18	12	0	
+SRR5277633	Klebsiella pneumoniae	ST11				KL27	OL2α.2	2	1	22	14	1	ybt
+SRR5277635	Klebsiella pneumoniae	ST437				KL36	OL4	0	2	20	14	0	
+SRR5277636	Klebsiella pneumoniae	ST437				KL36	OL4	0	2	21	13	0	
+SRR5277637	Klebsiella pneumoniae	ST437				KL36	OL4	0	2	21	15	0	
+SRR5277638	Klebsiella pneumoniae	ST437				KL36	OL4	0	2	22	13	0	
+SRR5341976	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	19	17	0	
+SRR5341977	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	13	11	0	
+SRR5341978	Klebsiella pneumoniae	ST20				KL28	OL2α.2	0	1	15	11	0	
+SRR5420060	Klebsiella pneumoniae	ST405				KL151	OL4	1	1	16	12	1	ybt
+SRR5420062	Klebsiella pneumoniae	ST405				KL151	OL4	1	1	11	13	1	ybt
+SRR5420063	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	1	16	12	0	
+SRR5420072	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	0	16	13	0	
+SRR5420073	Klebsiella pneumoniae	ST551				KL10	OL2α.1	0	1	18	13	0	
+SRR5445912	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	19	12	0	
+SRR5445913	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	21	12	0	
+SRR5445915	Klebsiella pneumoniae	ST16				KL51	OL3γ	0	1	19	11	0	
+SRR5445924	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	19	12	0	
+SRR5806868	Klebsiella pneumoniae	ST716				KL110	OL2α.1	0	1	12	12	0	
+SRR5806869	Klebsiella pneumoniae	ST25				KL2	OL2α.2	1	1	16	13	1	ybt
+SRR5806870	Klebsiella pneumoniae	ST35				KL110	OL2α.1	1	1	12	16	1	ybt
+SRR5806871	Klebsiella pneumoniae	ST37				KL14	OL3γ	1	0	9	12	1	ybt
+SRR5806877	Klebsiella quasipneumoniae subsp. similipneumoniae	ST476				KL114	OL3α/β	0	3	18	8	0	
+SRR5806881	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	0	16	12	0	
+SRR5810501	Klebsiella pneumoniae	ST38				KL52	OL13	0	1	14	11	0	
+SRR5810502	Klebsiella pneumoniae	ST33				KL13	OL3γ	0	1	8	11	0	
+SRR5810503	Klebsiella pneumoniae	ST2158				KL114	OL3γ	0	1	14	9	0	
+SRR5810506	Klebsiella pneumoniae	ST628				KL31	OL3γ	0	0	8	10	0	
+SRR5810509	Klebsiella pneumoniae	ST38				KL52	OL13	0	1	14	10	0	
+SRR5862473	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	1	17	17	0	
+SRR5862474	Klebsiella quasipneumoniae subsp. similipneumoniae	ST476				KL114	OL3α/β	0	3	17	8	0	
+SRR5862477	Klebsiella pneumoniae	ST30				KL64	OL2α.1	0	1	13	28	0	
+SRR5862478	Klebsiella quasipneumoniae subsp. similipneumoniae	ST476				KL114	OL3α/β	0	3	21	10	0	
+SRR5901128	Klebsiella pneumoniae	ST45				KL24	OL2α.1	1	1	18	19	1	ybt
+SRR5942979	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	3	22	13	1	ybt
+SRR5942980	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	24	13	1	ybt
+SRR5943128	Klebsiella pneumoniae	ST231				KL51	OL2α.2	4	3	22	15	2	ybt+iuc
+SRR5943129	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	17	13	1	ybt
+SRR5943130	Klebsiella pneumoniae	ST16				KL51	OL3γ	1	2	21	13	1	ybt
+SRR6037655	Klebsiella pneumoniae	ST147				KL122	OL2α.2	0	2	17	24	0	
+SRR6037659	Klebsiella pneumoniae	ST17				KL25	OL5	1	2	17	12	1	ybt
+SRR6310474	Klebsiella pneumoniae	ST395				KL64	OL2α.1	0	2	22	11	0	
+SRR6310475	Klebsiella pneumoniae	ST395				KL64	OL2α.1	1	1	19	12	1	ybt
+SRR849544	Klebsiella pneumoniae	ST1272				KL102	OL2α.2	0	2	13	11	0	
+SRR849548	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	16	11	0	
+SRR850871	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	13	12	0	
+SRR850882	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	12	0	
+SRR850884	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	23	13	0	
+SRR850886	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	19	12	0	
+SRR850891	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	21	12	0	
+SRR850896	Klebsiella pneumoniae	ST37				KL14	OL3γ	1	0	14	15	1	ybt
+SRR850898	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	16	12	0	
+SRR850920	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	10	11	0	
+SRR850951	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	17	11	0	
+SRR850953	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	23	12	0	
+SRR850955	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	11	11	0	
+SRR850957	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	10	13	0	
+SRR850959	Klebsiella pneumoniae	ST113				KL114	OL3α/β	0	2	12	10	0	
+SRR850961	Klebsiella pneumoniae	ST258				KL106	OL2α.2	0	2	24	13	0	
+SRR850967	Klebsiella pneumoniae	ST101				KL17	OL2α.1	1	2	17	12	1	ybt
+SRR850973	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	2	10	11	0	
+SRR850980	Klebsiella pneumoniae	ST134				KL25	OL5	0	0	5	11	0	
+SRR850984	Klebsiella pneumoniae	ST20				KL28	OL2α.2	0	0	4	11	0	
+SRR850988	Klebsiella pneumoniae	ST1432				KL133	OL2α.1	0	0	4	11	0	
+SRR850996	Klebsiella pneumoniae	ST111				KL63	OL2α.2	1	0	4	11	1	ybt
+SRR851000	Klebsiella pneumoniae	ST11-4LV				KL106	OL2α.2	0	0	12	15	0	
+SRR851005	Klebsiella pneumoniae	ST37				KL15	OL4	0	0	4	10	0	
+SRR851009	Klebsiella pneumoniae	ST258				KL107	OL2α.2	0	1	20	12	0	
+SRR851013	Klebsiella pneumoniae	ST111				KL63	OL2α.2	1	0	4	14	1	ybt
+SRR851021	Klebsiella pneumoniae	ST466				KL22	OL2α.1	1	0	4	12	1	ybt
+SRR851025	Klebsiella pneumoniae	ST1583				KL102	OL2α.2	1	2	9	14	1	ybt
+SRR851034	Klebsiella pneumoniae	ST307				KL102	OL2α.2	0	1	19	12	0	
+SRR851049	Klebsiella pneumoniae	ST1084				KL106	OL2α.2	0	2	23	12	0	
+SRR851053	Klebsiella pneumoniae	ST14				KL16	OL2α.1	1	0	7	15	1	ybt
+SRR851057	Klebsiella pneumoniae	ST37				KL14	OL3γ	1	1	11	14	1	ybt
+SRR851061	Klebsiella pneumoniae	ST1436				KL128	OL3γ	0	0	5	12	0	
+SRR8668707	Klebsiella pneumoniae	ST23				KL1	OL2α.2	5	2	8	14	3	ybt+iuc+iro
