@@ -1,0 +1,45 @@
+# Raw sequencing and genome files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fa
+*.fna
+
+# Large/intermediate genomic outputs
+*.bam
+*.sam
+*.vcf
+*.gff
+*.gbk
+*.aln
+
+# Archives and containers
+*.tar
+*.tar.gz
+*.zip
+*.sif
+
+# Cluster logs
+*.out
+*.err
+slurm-*
+logs/
+
+# R temporary files
+.Rhistory
+.RData
+Rplots.pdf
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Generated results
+results/
+
+# Local container directory
+containers/
+
+
