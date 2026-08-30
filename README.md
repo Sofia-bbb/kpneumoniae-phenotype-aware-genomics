@@ -8,7 +8,7 @@ The study integrates whole-genome sequencing with antimicrobial susceptibility p
 
 The workflow was designed to support phenotype-aware genomic surveillance by identifying genomic and lineage-specific patterns that may be missed when genomic resistance determinants or phenotypic susceptibility data are considered independently.
 
-<sub>The workflow was developed by Sofia Ali and Jacob P. Walsh in the Department of Chemistry and Biochemistry, University of Northern British Columbia (UNBC).</sub>
+The workflow was developed by Sofia Ali and Jacob P. Walsh in the Department of Chemistry and Biochemistry, University of Northern British Columbia (UNBC).
 ---
 
 ## Workflow 
@@ -97,7 +97,7 @@ This repository contains the analysis scripts and derived, analysis-ready datase
 
 Repository scripts use relative paths where applicable to facilitate reuse outside the original high-performance computing environment. A template assembly manifest (`data/assemblies.example.tsv`) is provided for analyses requiring locally available genome assemblies.
 
-<sub>External resources, including raw sequencing data, the VFDB reference database, and software containers, must be obtained or configured separately where required.</sub>
+External resources, including raw sequencing data, the VFDB reference database, and software containers, must be obtained or configured separately where required.
 ---
 
 ## Authors
