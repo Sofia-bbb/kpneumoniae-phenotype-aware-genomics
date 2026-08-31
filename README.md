@@ -96,17 +96,17 @@ Key scripts:
 - `04b_vfdb_coverage_filter.py`
 - `04c_build_non_siderophore_vf.py`
 
-### Genotype–Phenotype Concordance
+## Genotype–Phenotype Concordance and Discordance
 
 `scripts/genotype_phenotype/`
 
-Contains the final antimicrobial genotype–phenotype concordance analysis.
+Contains the final antimicrobial genotype–phenotype concordance analysisand discordance analyses, including antimicrobial-specific genomic prediction rules and classification of genotype-positive/phenotype-resistant (G+/P-R), genotype-negative/phenotype-susceptible (G−/P-S), genotype-positive/phenotype-susceptible (G+/P-S), and genotype-negative/phenotype-resistant (G−/P-R) observations.
 
 Key script:
 
 - `01_final_concordance.py`
 
-### Siderophore Analyses
+## Siderophore Analyses
 
 `scripts/siderophore/`
 
@@ -117,7 +117,7 @@ Key scripts:
 - `01_siderophore_associations.R`
 - `02_adjusted_siderophore_models.R`
 
-### Statistical Analysis
+## Statistical Analysis
 
 `scripts/statistics/`
 
@@ -127,7 +127,7 @@ Key script:
 
 - `01_build_analysis_tables.py`
 
-### Phylogenomic Analyses
+## Phylogenomic Analyses
 
 `scripts/phylogeny/`
 
