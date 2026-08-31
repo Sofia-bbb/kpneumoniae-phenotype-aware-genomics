@@ -1,4 +1,4 @@
-# Phenotype-Aware Genomic Surveillance of *Klebsiella pneumoniae*
+Phenotype-Aware Genomic Surveillance of Klebsiella pneumoniae
 
 ## Overview
 
