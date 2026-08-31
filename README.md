@@ -1,6 +1,6 @@
 ## Phenotype-Aware Genomic Surveillance of Klebsiella pneumoniae
 
-#### Overview
+### Overview
 
 This repository contains the downstream reproducible analysis workflow and supporting analysis-ready datasets for the manuscript:
 
@@ -12,7 +12,7 @@ The workflow was designed to support phenotype-aware genomic surveillance by ide
 
 ---
 
-# Study Workflow
+### Study Workflow
 
 The complete study comprised the following major stages:
 
@@ -48,7 +48,7 @@ Raw-read retrieval, read trimming, genome assembly, and large intermediate genom
 
 ---
 
-# Repository Structure
+### Repository Structure
 
 ```text
 kpneumoniae-phenotype-aware-genomics/
@@ -82,9 +82,9 @@ kpneumoniae-phenotype-aware-genomics/
 
 ---
 
-# Analysis Scripts
+### Analysis Scripts
 
-# Genome Characterization
+### Genome Characterization
 
 `scripts/genome_characterization/`
 
@@ -96,7 +96,7 @@ Key scripts:
 - `04b_vfdb_coverage_filter.py`
 - `04c_build_non_siderophore_vf.py`
 
-# Genotype–Phenotype Concordance and Discordance
+### Genotype–Phenotype Concordance and Discordance
 
 `scripts/genotype_phenotype/`
 
@@ -106,7 +106,7 @@ Key script:
 
 - `01_final_concordance.py`
 
-# Siderophore Analyses
+### Siderophore Analyses
 
 `scripts/siderophore/`
 
@@ -117,7 +117,7 @@ Key scripts:
 - `01_siderophore_associations.R`
 - `02_adjusted_siderophore_models.R`
 
-# Statistical Analysis
+### Statistical Analysis
 
 `scripts/statistics/`
 
@@ -127,7 +127,7 @@ Key script:
 
 - `01_build_analysis_tables.py`
 
-# Phylogenomic Analyses
+### Phylogenomic Analyses
 
 `scripts/phylogeny/`
 
@@ -142,7 +142,7 @@ Key scripts:
 
 ---
 
-# Reproducing the Downstream Analyses
+### Reproducing the Downstream Analyses
 
 The repository is organized so that the deposited analysis-ready datasets in `data/` can be used with the corresponding scripts in `scripts/`.
 
@@ -172,7 +172,7 @@ as a template for defining local assembly paths.
 
 ---
 
-# Software
+### Software
 
 The study used the following principal software packages:
 
@@ -198,7 +198,7 @@ Exact statistical procedures, filtering thresholds, and antimicrobial-specific g
 
 ---
 
-# Data Availability
+### Data Availability
 
 The genomic and antimicrobial susceptibility data analysed in this study were obtained from publicly available records in **NCBI Pathogen Detection** and the **Sequence Read Archive (SRA)**.
 
@@ -210,7 +210,7 @@ Raw sequencing reads and genome assemblies are not redistributed through this re
 
 ---
 
-# Reproducibility Scope
+### Reproducibility Scope
 
 This repository is intended to support reproduction of the **downstream analyses reported in the manuscript** from the deposited analysis-ready datasets.
 
@@ -218,7 +218,7 @@ The upstream computational stages, including raw SRA retrieval, read processing,
 
 ---
 
-# Citation
+### Citation
 
 If you use this workflow or the associated datasets, please cite the corresponding manuscript.
 
@@ -226,7 +226,7 @@ Full citation information will be added following publication.
 
 ---
 
-# Authors
+### Authors
 
 **Sofia B. Mohamed**  
 Department of Chemistry and Biochemistry  
