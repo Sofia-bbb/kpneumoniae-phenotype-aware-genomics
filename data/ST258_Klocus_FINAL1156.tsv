@@ -1,0 +1,150 @@
+SRR	ST	K_locus	K_type	K_confidence	Yersiniabactin	Aerobactin	Salmochelin	Colibactin
+SRR1010899	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR1010920	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR1010924	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR1010926	ST258	KL38	K38	Typeable	-	-	-	-
+SRR1010932	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR1010938	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10 (truncated)	-	-	clb 3
+SRR1010940	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10	-	-	clb 3
+SRR1010942	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10	-	-	clb 3 (truncated)
+SRR1010946	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10 (truncated)	-	-	clb 3
+SRR1010948	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10 (truncated)	-	-	clb 3
+SRR1180685	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR1180740	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10 (truncated)	-	-	clb 3
+SRR1180775	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR1180799	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR1180838	ST258	KL107	Capsule null	Typeable	ybt 17; ICEKp10	-	-	clb 3
+SRR1180855	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR1180856	ST258	KL30	K30	Typeable	-	-	-	-
+SRR1180858	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR1180869	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR1180889	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR1180896	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR1196658	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR1196879	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR2134680	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR26412279	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3185093	ST258	KL25	K25	Typeable	-	-	-	-
+SRR3185095	ST258	KL25	K25	Typeable	-	-	-	-
+SRR33816387	ST258	KL38	K38	Typeable	-	-	-	-
+SRR35795507	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795509	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2 (truncated)	-	-	-
+SRR35795511	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2 (truncated)	-	-	-
+SRR35795513	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795514	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2 (truncated)	-	-	-
+SRR35795522	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795531	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35795532	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35795539	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35795641	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795643	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795645	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795646	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795647	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795648	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795650	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35795656	ST258	KL106	unknown (KL106)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35795797	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795800	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR35795810	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35795811	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35795817	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35795818	ST258	KL107	unknown (KL107)	Typeable	ybt 13; ICEKp2	-	-	-
+SRR35796009	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3981086	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3982097	ST258	KL107	Capsule null	Typeable	-	-	-	-
+SRR3982098	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3982229	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3982230	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3982316	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3982346	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3987112	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3987115	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10	-	-	clb 3 (truncated)
+SRR3987118	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3987119	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3987120	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3987121	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3987122	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3987123	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3987124	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3987125	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3987127	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3987129	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3987135	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3996236	ST258	KL63	K63	Typeable	-	-	-	-
+SRR3996238	ST258	KL107	Capsule null	Typeable	-	-	-	-
+SRR3996239	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10	-	-	clb 3
+SRR3996240	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10	-	-	clb 3
+SRR3996245	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10	-	-	clb 3 (truncated)
+SRR3996246	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR3996248	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3996250	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3996251	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3996253	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR3996260	ST258	KL106	Capsule null	Typeable	-	-	-	-
+SRR3996261	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017811	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017827	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017828	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017829	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017830	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10	-	-	clb 3
+SRR4017834	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017835	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017840	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017842	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017844	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017846	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017847	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017848	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017850	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017851	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017852	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017856	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017890	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017892	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017893	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017894	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017895	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017898	ST258	KL106	unknown (KL106)	Typeable	ybt 17; ICEKp10	-	-	clb 3
+SRR4017902	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017906	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017920	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10	-	-	clb 3 (truncated)
+SRR4017921	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017923	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4017924	ST258	KL106	unknown (KL106)	Untypeable	-	-	-	-
+SRR4017927	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4017928	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4035116	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4035118	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4035123	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4035124	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4035125	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4035126	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4065637	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4065646	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4065647	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4065652	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4065653	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4065663	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR4065680	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR4065699	ST258	KL107	unknown (KL107)	Typeable	ybt 17; ICEKp10 (truncated)	-	-	clb 3
+SRR4065702	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR5420063	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR5420072	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR5806881	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR5862473	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR849548	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR850871	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850882	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850884	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850886	ST258	KL106	unknown (KL106)	Untypeable	-	-	-	-
+SRR850891	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR850898	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850920	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850951	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850953	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850955	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850957	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR850961	ST258	KL106	unknown (KL106)	Typeable	-	-	-	-
+SRR850973	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-
+SRR851009	ST258	KL107	unknown (KL107)	Typeable	-	-	-	-

@@ -11,12 +11,12 @@ script_path <- normalizePath(sub("^--file=", "", script_arg))
 base_dir <- normalizePath(file.path(dirname(script_path), "..", ".."))
 
 KFILE <- file.path(
-  base_dir, "data", "ST258_Klocus_FINAL1143.tsv"
+  base_dir, "data", "ST258_Klocus_FINAL1156.tsv"
 )
 
 GPFILE <- file.path(
   base_dir, "data",
-  "03_Isolate_Level_Siderophore_AMR_Genotype_Phenotype.tsv"
+  "Supplementary_Table_S7_Integrated_Genotype_Phenotype_FINAL.tsv"
 )
 
 output_dir <- file.path(base_dir, "results", "phylogeny")
@@ -123,7 +123,8 @@ gp <- read_tsv(
   GPFILE,
   show_col_types = FALSE
 ) %>%
-  filter(Phenotype %in% c("R", "S")) %>%
+  filter(Resistance_Phenotype %in% c("R", "S")) %>%
+  select(-K_locus) %>%
   distinct(SRR, Antibiotic, .keep_all = TRUE) %>%
   inner_join(
     k %>% select(SRR, K_locus),
@@ -135,11 +136,11 @@ get_pheno_counts <- function(drug) {
   z <- gp %>%
     filter(Antibiotic == drug)
 
-  a_pos <- sum(z$K_locus == "KL106" & z$Phenotype == "R")
-  a_neg <- sum(z$K_locus == "KL106" & z$Phenotype == "S")
+  a_pos <- sum(z$K_locus == "KL106" & z$Resistance_Phenotype == "R")
+  a_neg <- sum(z$K_locus == "KL106" & z$Resistance_Phenotype == "S")
 
-  b_pos <- sum(z$K_locus == "KL107" & z$Phenotype == "R")
-  b_neg <- sum(z$K_locus == "KL107" & z$Phenotype == "S")
+  b_pos <- sum(z$K_locus == "KL107" & z$Resistance_Phenotype == "R")
+  b_neg <- sum(z$K_locus == "KL107" & z$Resistance_Phenotype == "S")
 
   run_test(
     paste0(drug, "_phenotypic_resistance"),
