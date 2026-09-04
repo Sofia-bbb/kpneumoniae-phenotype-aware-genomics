@@ -4,7 +4,7 @@
 
 This repository contains the reproducible upstream and downstream analysis workflow and supporting analysis-ready datasets for the manuscript:
 
-**Phenotype-Aware Genomic Surveillance Reveals Siderophore-Associated Virulence–Resistance Backgrounds in *Klebsiella pneumoniae***
+**Phenotype-Aware Genomic Surveillance Characterizes Siderophore-Associated Virulence–Resistance Backgrounds in *Klebsiella pneumoniae***
 
 The study integrates whole-genome sequencing data with antimicrobial susceptibility phenotypes to examine antimicrobial resistance determinants, genotype–phenotype concordance and discordance, siderophore and virulence profiles, sequence types, capsule loci, and phylogenomic structure in *Klebsiella pneumoniae*.
 
