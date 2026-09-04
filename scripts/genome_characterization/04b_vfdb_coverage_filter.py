@@ -10,7 +10,7 @@ MASTER = BASE / "data" / "GPSKp_genomic_master.tsv"
 RESULTS = BASE / "results" / "vfdb"
 FASTA = BASE / "data" / "vfdb" / "VFDB_setA_nt.fas"
 
-OUT = BASE / "results" / "vfdb_coverage_FINAL1168_90id_80cov.tsv"
+OUT = BASE / "results" / "vfdb_coverage_FINAL1156_90id_80cov.tsv"
 
 IDENTITY_CUTOFF = 90.0
 COVERAGE_CUTOFF = 80.0
@@ -199,7 +199,7 @@ with open(
 
 
 print("=" * 60)
-print("VFDB COVERAGE FILTER - FINAL 1168")
+print("VFDB COVERAGE FILTER - FINAL 1156")
 print("=" * 60)
 print("Final IDs loaded :", len(final_ids))
 print("Samples analyzed :", len(rows))

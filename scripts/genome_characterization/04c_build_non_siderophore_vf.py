@@ -5,9 +5,9 @@ import csv
 
 BASE = Path(__file__).resolve().parents[2]
 
-INPUT = BASE / "results" / "vfdb_coverage_FINAL1168_90id_80cov.tsv"
+INPUT = BASE / "results" / "vfdb_coverage_FINAL1156_90id_80cov.tsv"
 
-OUTPUT = BASE / "results" / "vfdb_non_siderophore_FINAL1168_90id_80cov.tsv"
+OUTPUT = BASE / "results" / "vfdb_non_siderophore_FINAL1156_90id_80cov.tsv"
 
 
 def is_siderophore_factor(factor):
@@ -145,7 +145,7 @@ with open(
 
 
 print("=" * 65)
-print("NON-SIDEROPHORE VFDB BURDEN - FINAL 1168")
+print("NON-SIDEROPHORE VFDB BURDEN - FINAL 1156")
 print("=" * 65)
 print("Samples processed             :", len(rows))
 print("VF factors before exclusion   :", total_factors_before)

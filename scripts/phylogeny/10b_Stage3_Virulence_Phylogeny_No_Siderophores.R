@@ -7,7 +7,7 @@ TREE_FILE <- "data/KP_Final_1143_core_genome_tree.nwk"
 
 MASTER_FILE <- "data/01_Stage4_Integrated_Isolate_Master_FINAL_1143.tsv"
 
-CORRECTED_VF_FILE <- "data/vfdb_non_siderophore_FINAL1168_90id_80cov.tsv"
+CORRECTED_VF_FILE <- "data/vfdb_non_siderophore_FINAL1156_90id_80cov.tsv"
 
 OUT <- "results/phylogeny/virulence_clustering"
 

@@ -2,13 +2,15 @@
 
 ### Overview
 
-This repository contains the downstream reproducible analysis workflow and supporting analysis-ready datasets for the manuscript:
+This repository contains the reproducible upstream and downstream analysis workflow and supporting analysis-ready datasets for the manuscript:
 
 **Phenotype-Aware Genomic Surveillance Reveals Siderophore-Associated Virulence–Resistance Backgrounds in *Klebsiella pneumoniae***
 
 The study integrates whole-genome sequencing data with antimicrobial susceptibility phenotypes to examine antimicrobial resistance determinants, genotype–phenotype concordance and discordance, siderophore and virulence profiles, sequence types, capsule loci, and phylogenomic structure in *Klebsiella pneumoniae*.
 
 The workflow was designed to support phenotype-aware genomic surveillance by identifying genomic and lineage-specific patterns that may be missed when genomic resistance determinants or phenotypic susceptibility data are considered independently.
+
+Following assembly-quality assessment and species validation, the final genomic cohort comprised 1,156 *K. pneumoniae* isolates; 12 isolates assigned to other species within the *K. pneumoniae* species complex were excluded. The final phylogenetic cohort comprised 1,143 isolates with valid annotations included in the core-genome analysis. Genotype–phenotype integration included 3,280 initial isolate–antimicrobial observations, 3,271 deduplicated records, and 2,757 observations with evaluable resistant or susceptible classifications.
 
 ---
 
@@ -42,9 +44,9 @@ The complete study comprised the following major stages:
 9. Integrated lineage-specific interpretation
 ```
 
-The present repository focuses on the **downstream genomic characterization, genotype–phenotype integration, siderophore analyses, statistical analyses, and phylogenomic analyses** used to generate the reported results.
+The repository includes the **upstream data-retrieval, read-processing, assembly, quality-control, species-validation, genomic-characterization, and phylogenomic workflow**, together with the downstream genotype–phenotype, siderophore, statistical, and phylogenetic analyses used to generate the reported results.
 
-Raw-read retrieval, read trimming, genome assembly, and large intermediate genome-processing files are not redistributed through this repository.
+Raw sequencing reads, genome assemblies, and large intermediate files are not redistributed; however, the scripts and configuration templates required to reproduce these stages are provided.
 
 ---
 
@@ -52,6 +54,10 @@ Raw-read retrieval, read trimming, genome assembly, and large intermediate genom
 
 ```text
 kpneumoniae-phenotype-aware-genomics/
+│
+├── config/
+│   ├── sra_accessions_1181.txt
+│   └── assemblies.example.tsv
 │
 ├── data/
 │   ├── 01_Stage4_Integrated_Isolate_Master_FINAL_1143.tsv
@@ -66,10 +72,13 @@ kpneumoniae-phenotype-aware-genomics/
 │   ├── KP_Final_1143_core_genome_tree.nwk
 │   ├── ST258_Klocus_FINAL1143.tsv
 │   ├── Supplementary_Table_S7_Integrated_Genotype_Phenotype_FINAL.tsv
-│   ├── vfdb_non_siderophore_FINAL1168_90id_80cov.tsv
-│   └── assemblies.example.tsv
+│   └── vfdb_non_siderophore_FINAL1156_90id_80cov.tsv
 │
 ├── scripts/
+│   ├── data_retrieval/
+│   ├── read_processing/
+│   ├── assembly_qc/
+│   ├── cohort_construction/
 │   ├── genome_characterization/
 │   ├── genotype_phenotype/
 │   ├── siderophore/
@@ -84,14 +93,28 @@ kpneumoniae-phenotype-aware-genomics/
 
 ### Analysis Scripts
 
+### Data Retrieval and Cohort Construction
+
+`scripts/data_retrieval/` and `scripts/cohort_construction/`
+
+Contains scripts for NCBI record retrieval, metadata harmonization, AST integration, human-clinical filtering, representative-run selection, FASTQ retrieval, and construction of the isolate-level study cohort.
+
+### Read Processing, Assembly, and Quality Control
+
+`scripts/read_processing/` and `scripts/assembly_qc/`
+
+Contains Slurm workflows for FastQC, Trimmomatic, SPAdes, and QUAST, together with generation of the cohort-level assembly-quality summary.
+
 ### Genome Characterization
 
 `scripts/genome_characterization/`
 
-Contains scripts supporting VFDB-based virulence-factor processing and construction of the non-siderophore virulence-feature dataset.
+Contains scripts for Kleborate species validation and typing, AMRFinderPlus resistance-determinant detection, VFDB-based virulence-factor processing, and construction of the non-siderophore virulence-feature dataset.
 
 Key scripts:
 
+- `01_Kleborate.sh`
+- `GPSKp_03_AMRFinder.sh`
 - `GPSKp_04_VFDB.sh`
 - `04b_vfdb_coverage_filter.py`
 - `04c_build_non_siderophore_vf.py`
@@ -131,10 +154,13 @@ Key script:
 
 `scripts/phylogeny/`
 
-Contains scripts supporting within-lineage phylogenetic structure, virulence clustering, ST-adjusted carbapenem discordance clustering, and focused ST258 KL106/KL107 analyses.
+Contains scripts for Prokka annotation, Roary core-genome alignment, FastTree phylogenetic reconstruction, within-lineage phylogenetic structure, virulence clustering, ST-adjusted carbapenem discordance clustering, and focused ST258 KL106/KL107 analyses.
 
 Key scripts:
 
+- `GPSKp_11_Prokka.sh`
+- `run_final_roary.sh`
+- `run_FastTree_1143.sh`
 - `01_Final1143_Phylogenetic_Structure.R`
 - `10b_Stage3_Virulence_Phylogeny_No_Siderophores.R`
 - `12_ST_Adjusted_Carbapenem_FINAL.R`
@@ -142,33 +168,41 @@ Key scripts:
 
 ---
 
-### Reproducing the Downstream Analyses
+## Reproducing the Complete Workflow
 
 The repository is organized so that the deposited analysis-ready datasets in `data/` can be used with the corresponding scripts in `scripts/`.
 
-The general downstream analysis sequence is:
+Run scripts from the repository root. Before submitting Slurm jobs, create the local working directories with `mkdir -p logs work results`. Copy `config/assemblies.example.tsv` to `config/assemblies.tsv` and replace the example entries with local assembly paths. Slurm array ranges should be supplied at submission according to the number of records in the relevant manifest; they are not hard-coded in the public scripts.
+
+The default working directory is `work/` and can be overridden with `KP_WORKDIR`. Manifest, container, Roary, and FastTree paths can also be overridden using the environment variables defined in the corresponding scripts. Kleborate and AMRFinderPlus container images are not redistributed through this repository.
+
+The general analysis sequence is:
 
 ```text
+NCBI data retrieval and cohort construction
+        ↓
+SRA/FASTQ retrieval and read-quality control
+        ↓
+Read trimming, genome assembly, and assembly QC
+        ↓
+Species validation and genomic characterization
+        ↓
+Prokka annotation, Roary alignment, and FastTree reconstruction
+        ↓
 Analysis-ready genomic and phenotype datasets
         ↓
 Build integrated analysis tables
         ↓
-Genotype–phenotype concordance analysis
+Genotype–phenotype concordance and discordance analyses
         ↓
-Siderophore-associated analyses
+Siderophore-associated and within-lineage analyses
         ↓
-Within-lineage analyses
-        ↓
-Phylogenetic clustering and structure analyses
+Phylogenetic clustering and integrated interpretation
 ```
 
 Scripts use relative paths where applicable to facilitate reuse outside the original high-performance computing environment.
 
-Analyses requiring locally available genome assemblies can use:
-
-`data/assemblies.example.tsv`
-
-as a template for defining local assembly paths.
+Analyses requiring locally available genome assemblies can use `config/assemblies.example.tsv` as a template for defining local assembly paths.
 
 ---
 
@@ -212,9 +246,9 @@ Raw sequencing reads and genome assemblies are not redistributed through this re
 
 ### Reproducibility Scope
 
-This repository is intended to support reproduction of the **downstream analyses reported in the manuscript** from the deposited analysis-ready datasets.
+This repository provides the scripts used for both the upstream and downstream computational workflow. Upstream stages include public-data retrieval, read processing, genome assembly, assembly-quality assessment, species validation, genomic characterization, annotation, core-genome alignment, and phylogenetic reconstruction.
 
-The upstream computational stages, including raw SRA retrieval, read processing, genome assembly, assembly quality assessment, and generation of large intermediate files, were performed on high-performance computing infrastructure and are described in the manuscript Methods.
+Because raw reads, assemblies, and large intermediate files are not redistributed, reproducing the upstream stages requires downloading the public SRA records and access to the listed software and suitable computing resources. The deposited analysis-ready datasets permit reproduction of the downstream statistical and phylogenetic analyses without rerunning the upstream workflow.
 
 ---
 

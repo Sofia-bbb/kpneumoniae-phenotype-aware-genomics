@@ -43,3 +43,8 @@ results/
 containers/
 
 
+
+# Local working data and machine-specific manifests
+work/
+config/assemblies.tsv
+config/assemblies_phylogeny.tsv

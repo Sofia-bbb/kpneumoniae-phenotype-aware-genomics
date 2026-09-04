@@ -1,24 +1,23 @@
 #!/usr/bin/env Rscript
+
+.libPaths(c("~/R/library", .libPaths()))
+
 suppressPackageStartupMessages({
   library(readr)
   library(dplyr)
   library(tidyr)
 })
-# Repository root
-args <- commandArgs(trailingOnly = FALSE)
-script_arg <- grep("^--file=", args, value = TRUE)
-script_path <- normalizePath(sub("^--file=", "", script_arg))
-base_dir <- normalizePath(file.path(dirname(script_path), "..", ".."))
 
-input_dir <- file.path(base_dir, "data")
-output_dir <- file.path(base_dir, "results", "siderophore")
+cat("=========================================================\n")
+cat("GPS-Kp Module 9.2: Adjusted Association Models\n")
+cat("=========================================================\n")
 
-dir.create(output_dir,
+dir.create("results/siderophore",
            recursive = TRUE,
            showWarnings = FALSE)
 
-SIDE_INPUT <- file.path(input_dir, "04_Siderophore_Table.tsv")
-ST_INPUT <- file.path(input_dir, "06_ST_Table.tsv")
+SIDE_INPUT <- "data/04_Siderophore_Table.tsv"
+ST_INPUT <- "data/06_ST_Table.tsv"
 
 side_data <- read_tsv(
   SIDE_INPUT,
@@ -536,10 +535,12 @@ run_adjusted_model <- function(
 ## Rebuild the analysis dataset using the AMR table
 ###############################################################################
 
-AMR_INPUT <- file.path(input_dir, "02_AMR_Table.tsv")
+AMR_INPUT <- "data/02_AMR_Table.tsv"
 
 amr_data <- read_tsv(
-  AMR_INPUT <- file.path(input_dir, "02_AMR_Table.tsv")
+  AMR_INPUT,
+  show_col_types = FALSE
+) %>%
   select(
     SRR,
     num_resistance_classes,
@@ -574,7 +575,7 @@ dat <- dat %>%
 
 write_tsv(
   dat,
-  file.path(output_dir, "06_adjusted_model_dataset.tsv")
+  "results/siderophore/06_adjusted_model_dataset.tsv"
 )
 
 ###############################################################################
@@ -639,17 +640,15 @@ adjusted_mdr_results <- lapply(
 
 write_tsv(
   adjusted_mdr_results,
-  file.path(output_dir, "07_adjusted_siderophore_vs_genomic_MDR.tsv")
+  "results/siderophore/07_adjusted_siderophore_vs_genomic_MDR.tsv"
 )
 
 ###############################################################################
 ## B. Prepare observed antibiotic phenotype data
 ###############################################################################
 
-PHENOTYPE_INPUT <- file.path(
-  input_dir,
-  "16_concordance_detail_deduplicated.tsv"
-)
+PHENOTYPE_INPUT <-
+  "data/16_concordance_detail_deduplicated.tsv"
 
 phenotype_raw <- read_tsv(
   PHENOTYPE_INPUT,
@@ -692,7 +691,7 @@ phenotype_data <- phenotype_raw %>%
 
 write_tsv(
   phenotype_data,
-  file.path(output_dir, "08_adjusted_phenotype_model_dataset.tsv")
+  "results/siderophore/08_adjusted_phenotype_model_dataset.tsv"
 )
 
 ###############################################################################
@@ -760,17 +759,15 @@ adjusted_phenotype_results <- bind_rows(
 
 write_tsv(
   adjusted_phenotype_results,
-  file.path(output_dir, "08_adjusted_siderophore_vs_phenotype.tsv")
+  "results/siderophore/08_adjusted_siderophore_vs_phenotype.tsv"
 )
 
 ###############################################################################
 ## D. Compare adjusted and unadjusted genomic MDR estimates
 ###############################################################################
 
-UNADJUSTED_MDR <- file.path(
-  output_dir,
-  "02_siderophore_vs_genomic_MDR.tsv"
-)
+UNADJUSTED_MDR <-
+  "results/siderophore/02_siderophore_vs_genomic_MDR.tsv"
 
 if(file.exists(UNADJUSTED_MDR)){
 
@@ -801,18 +798,17 @@ if(file.exists(UNADJUSTED_MDR)){
     )
 
   write_tsv(
-  phenotype_comparison,
-  file.path(output_dir, "10_phenotype_unadjusted_vs_adjusted.tsv")
-)
+    mdr_comparison,
+    "results/siderophore/09_MDR_unadjusted_vs_adjusted.tsv"
+  )
+}
 
 ###############################################################################
 ## E. Compare adjusted and unadjusted phenotype estimates
 ###############################################################################
 
-UNADJUSTED_PHENOTYPE <- file.path(
-  output_dir,
-  "04_siderophore_vs_antibiotic_phenotype.tsv"
-)
+UNADJUSTED_PHENOTYPE <-
+  "results/siderophore/04_siderophore_vs_antibiotic_phenotype.tsv"
 
 if(file.exists(UNADJUSTED_PHENOTYPE)){
 
@@ -847,11 +843,11 @@ if(file.exists(UNADJUSTED_PHENOTYPE)){
       )
     )
 
-  
-write_tsv(
-  mdr_comparison,
-  file.path(output_dir, "09_MDR_unadjusted_vs_adjusted.tsv")
-)
+  write_tsv(
+    phenotype_comparison,
+    "results/siderophore/10_phenotype_unadjusted_vs_adjusted.tsv"
+  )
+}
 
 ###############################################################################
 ## Final summary
@@ -918,7 +914,7 @@ cat(
 
 cat(
   "Results directory:",
-  output_dir,
+  "results/siderophore",
   "\n"
 )
 
