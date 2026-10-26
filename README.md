@@ -211,25 +211,29 @@ Analyses requiring locally available genome assemblies can use `config/assemblie
 
 The study used the following principal software packages:
 
-- FastQC
+- SRA Toolkit v3.0.9
+- FastQC v0.12.1
 - Trimmomatic v0.41
-- SPAdes
+- SPAdes v4.2.0
 - QUAST v5.0.2
 - Kleborate v3.2.4
 - AMRFinderPlus v4.0.23
-- VFDB Set A
-- BLASTN
-- Prokka
+- BLASTN (BLAST+) v2.17.0+
+- Prokka v1.14.5
 - Roary v3.13.0
 - FastTree v2.1.11
-- Python
-- R
+- R v4.6.1 (documented for ST-adjusted carbapenem analyses)
+- Python v3.11.5 (SPAdes execution environment)
 
-The AMRFinderPlus database release used in the final analysis was:
+### Reference Databases
 
-**2025-07-16.1**
+The study used the following reference databases and data resources:
 
-Exact statistical procedures, filtering thresholds, and antimicrobial-specific genomic prediction rules are described in the manuscript Methods.
+- **NCBI Pathogen Detection:** Source of genomic records, antimicrobial susceptibility phenotypes, and associated metadata.
+- **AMRFinderPlus database:** Release 2025-07-16.1.
+- **VFDB Set A:** Local nucleotide BLAST database containing 4,895 reference sequences, generated on 5 August 2026 from `VFDB_setA_nt.fas`. The original VFDB release date was not independently verified.
+
+Statistical procedures, filtering thresholds, and antimicrobial-specific genomic prediction rules are documented in the manuscript Methods and implemented in the corresponding analysis scripts provided in this repository.
 
 ---
 
