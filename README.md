@@ -261,16 +261,10 @@ Full citation information will be added following publication.
 ---
 
 ### Authors
-
 **Sofia B. Mohamed**  
 Department of Chemistry and Biochemistry  
 University of Northern British Columbia (UNBC)  
 Prince George, British Columbia, Canada  
-
-National University Biomedical Research Institute (NUBRI)  
-National University-Sudan  
-Khartoum, Sudan  
-
 **Jacob P. Walsh**  
 Department of Chemistry and Biochemistry  
 University of Northern British Columbia (UNBC)  
