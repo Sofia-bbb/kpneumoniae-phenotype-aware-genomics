@@ -263,6 +263,7 @@ Full citation information will be added following publication.
 
 ### Authors and Contributors
 **Computational pipeline developed by:**
+
 **Sofia B. Mohamed**  
 Department of Chemistry and Biochemistry  
 University of Northern British Columbia (UNBC)  
