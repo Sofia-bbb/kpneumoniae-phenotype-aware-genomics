@@ -123,7 +123,7 @@ Key scripts:
 
 `scripts/genotype_phenotype/`
 
-Contains the final antimicrobial genotype–phenotype concordance analysisand discordance analyses, including antimicrobial-specific genomic prediction rules and classification of genotype-positive/phenotype-resistant (G+/P-R), genotype-negative/phenotype-susceptible (G−/P-S), genotype-positive/phenotype-susceptible (G+/P-S), and genotype-negative/phenotype-resistant (G−/P-R) observations.
+Contains the final antimicrobial genotype–phenotype concordance and discordance analyses, including antimicrobial-specific genomic prediction rules and classification of genotype-positive/phenotype-resistant (G+/P-R), genotype-negative/phenotype-susceptible (G−/P-S), genotype-positive/phenotype-susceptible (G+/P-S), and genotype-negative/phenotype-resistant (G−/P-R) observations.
 
 Key script:
 
@@ -162,6 +162,7 @@ Key scripts:
 - `run_final_roary.sh`
 - `run_FastTree_1143.sh`
 - `01_Final1143_Phylogenetic_Structure.R`
+- `06_Stage2_AMR_Genotype_Phenotype_Phylogeny.R`
 - `10b_Stage3_Virulence_Phylogeny_No_Siderophores.R`
 - `12_ST_Adjusted_Carbapenem_FINAL.R`
 - `13_ST258_KL106_KL107_Integrated_Analysis.R`
@@ -260,13 +261,23 @@ Full citation information will be added following publication.
 
 ---
 
-### Authors
+### Authors and Contributors
+
+**Computational pipeline developed by:**
+
+
 **Sofia B. Mohamed**  
 Department of Chemistry and Biochemistry  
 University of Northern British Columbia (UNBC)  
 Prince George, British Columbia, Canada  
+
+National University Biomedical Research Institute (NUBRI)
+National University–Sudan
+Khartoum, Sudan
+
 **Jacob P. Walsh**  
 Department of Chemistry and Biochemistry  
 University of Northern British Columbia (UNBC)  
-Prince George, British Columbia, Canada
+Prince George, British Columbia, Canada  
 
+**Manuscript authorship:** The complete list of manuscript authors and their contributions is provided in the associated publication.
