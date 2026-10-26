@@ -262,22 +262,13 @@ Full citation information will be added following publication.
 ---
 
 ### Authors and Contributors
-
 **Computational pipeline developed by:**
-
-
 **Sofia B. Mohamed**  
 Department of Chemistry and Biochemistry  
 University of Northern British Columbia (UNBC)  
 Prince George, British Columbia, Canada  
-
-National University Biomedical Research Institute (NUBRI)
-National University–Sudan
-Khartoum, Sudan
-
 **Jacob P. Walsh**  
 Department of Chemistry and Biochemistry  
 University of Northern British Columbia (UNBC)  
 Prince George, British Columbia, Canada  
 
-**Manuscript authorship:** The complete list of manuscript authors and their contributions is provided in the associated publication.
